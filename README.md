@@ -27,6 +27,8 @@ test/
 -asr_metadata/
 	-dev/
 		-asr_output_with_metadata_lang.csv
+	-test/
+		-asr_output_with_metadata_lang.csv
 ```
 
 - lang: eg. eng, ara
