@@ -1,0 +1,1830 @@
+ID	in XOR dev	sentence
+9021460939661217792	False	Dini ya KIislamu nchini Tanzania ilianza lini?
+-4488543621031256057	False	Je,Bongo Records ilianza kurekodi miziki mwaka upi?
+6394582077782192135	False	Je,makamu wa rais William Ruto alizaliwa mwaka upi?
+8220306808003469328	False	Je,nchi ya Ufaransa ni idadi ya watu wangapi?
+-3167373076727177195	False	Je,pundamilia ina tofauti gani kuu na punda wa kawaida?
+5741889065018875922	False	Je,wimbo wa taifa wa Tanzania unaitwaje?
+-3759755025815318507	False	Rais wa kwanza wa Kenya alikuwa anaitwa nani?
+3261310381773860886	False	Nani alizindua chombo cha kupima joto?
+-2755285734550319079	False	Je,nchi gani yenye kuzalisha chungwa kwa wingi zaidi duniani?
+7458252508461010964	False	Benjamin wa Mambo alizaliwa mwaka gani?
+369680303638335513	False	Je,Agano jipya ina vitabu ngapi?
+6849203470368776218	False	Je,Utawa wa Tatu wa Mt. Fransisko ilikuwa na familia ngapi?
+-6466736379469430751	False	Kuna lugha ngapi za kompyuta?
+-3364479104570687456	False	Maujai ya Kimbari yalifanyika mwaka gani nchini Rwanda?
+5491235252247339040	False	Kiswahili kilitokea wapi?
+-9188950427456741335	False	Kampuni ya Kenya Data Networks ilianzishwa lini?
+-380746398133583832	False	Irene Kiwia ni mwanzilishi wa kampuni gani?
+-7723321319417073621	False	Rapa Khalid alianza sanaa ya muziki mwaka gani?
+8162353428931256359	False	Mji mkuu wa Kenya ni upi?
+5352151133789556781	False	Je,kuna wanaume wenye homoni ya Estrojeni?
+6706402304426237998	False	Je,Martin Luther alianzisha Uprotestanti mwaka upi?
+-8183110465982447564	False	Kikohozi kikuu kiligunduliwa mwaka gani?
+1281289741273010224	False	Je,rais wa kwanza wa Korea alikuwa nani?
+7340656496273911855	False	Je,stesheni ya televisheni ya ABC ilianzishwa mwaka upi?
+-2807991894006517706	False	Kwa nini unaitwa mfumo wa homoni?
+-8138231577728860102	False	Je,yesu alikuwa na wafuasi wanawake?
+3489468040777736248	False	Dedan Kimathi alizaliwa mwaka upi?
+4321139313855717433	False	Je,chama cha KANU kilianzishwa na nani?
+6035152851101171769	False	Mlima mkubwa Tanzania ni upi?
+7679835819626098742	False	Jamhuri ya Kituruki iko na idadi ngapi ya watu?
+-1269998743683076038	False	Je,kifaru huishi kwa takriban miaka ngapi?
+3565566194907492411	False	Je, tiba ya Nimonia ilipatikana mwaka gani?
+-7844360106409185213	False	Tarakilishi la kwanza kutengenezwa ilikua ipi?
+-7914591850846801853	False	Je, papa Gregori alizaliwa lini?
+-5880692515894394812	False	Je,msanii wa kwanza Kenya kuimba hiphop ni nani?
+-5030288191474171831	False	Mkufunzi wa real madrid anaitwaje?
+5997405743622590537	False	T-Pain ana nyimbo ngapi?
+3320362071140421706	False	Je, Rwanda imekuwa na rais wangapi?
+-8519406454591430576	False	Haile Mariam Desalegne  alijiunga na siasa mwaka gani?
+-958343429464141747	False	Leo Africanus alizaliwa wapi?
+8023257881007407183	False	Mbuga kubwa ya safari barani Afrika inaitwaje?
+4908637260236496978	False	Je,papa wa kwanza kabisa aliitwa nani?
+5636166772463304787	False	Wimbo wa kwanza wa bendi ya Westlife ulirekodiwa lini?
+4218596186206339162	False	Je,Malcolm X alizaliwa lini?
+9165819494601511002	False	kiongozi wa kwanza wa milki ya Sumeri anaitwa nani?
+-1007186958006128542	False	Je, nchi ya Kamerun ilipata uhuru mwaka gani?
+8124913450925600866	False	Jotoridi hupimwa na kifaa gani?
+7845089854606106723	False	Mji mkuu wa Burundi unaitwaje?
+4458049248086630504	False	Je,rais wa kwanza wa Tanzania ni upi?
+4404236132694810729	False	William Mshindi alizaliwa mwaka upi?
+4968797180589989992	False	Je,rais wa kwanza wa Ethiopia aliitwa nani?
+-8745172285555912596	False	Kenyatta International Conference Centre ina urefu gani?
+8649977308090476	False	Je,Patrice Lumumba alizaliwa mwaka upi?
+-2683656972326059921	False	Je, ni mfupa gani mhimu sana mwili mwa mwanadamu?
+-91556722227515281	False	Ndovu ana meno mangapi?
+7578820205638692975	False	Je,nini maana ya Apartheid?
+4758836182051381362	False	Je,mji mkuu wa Brazili ni upi?
+5422418092074815608	False	Mdudu mkubwa zaidi ulimwenguni anaitwaje?
+8036913169799835767	False	Tennis ilianza mwaka upi?
+5138465660125356155	False	Aleksander Mashuhuri alikuwa na watoto wangapi?
+-5619318982205390721	False	Kampaundi ya dhahabu ina fomula gani?
+4688307953760927870	False	Miungu wa Misri walikuwa wa rangi ngapi?
+-9117661664579719034	False	Je,David James Thouless alizaliwa mwaka upi?
+-3657633310426570619	False	Je,Nigeria ilipata uhuru lini?
+3160212123355054212	False	Je,msitu ipi kubwa zaidi bara Afrika?
+-3702044134783647607	False	South Georgia iko na ukubwa kiasi gani?
+-2108686964206129015	False	Mark Elliot Zuckerberg alisomea chuo gani kikuu?
+9058557440919191687	False	Kuna kaunti ngapi nchini Kenya?
+4142243756089135242	False	Baba ya Hafez ni nani?
+4078079275722596495	False	Je,ni aina gani ya gari ya Volkswagen ilitengenezwa ya kwanza kabisa?
+-6028687878309334889	False	Je virusi vya ukimwi vina kinga?
+-2369016231619534697	False	Dana Davis alizaliwa wapi?
+-5728181848156532584	False	Je,mji wa Firenze ina idadi ya watu wangapi?
+-8242874317532245852	False	Bakteria iligunduliwa mwaka upi?
+7890782787336233119	False	Je,Dwight David Eisenhower alikuwa na watoto wangapi?
+-2388355718880640861	False	Je,mke wa rais Paul Kagame anaitwa nani?
+-476603263925727068	False	Je, Brazili ilianza kushiriki katika mchezo wa kombe la dunia ya soka mwaka upi?
+-3387071312966242134	False	Je, Kuna sanamu ngapi katikati mwa jiji la New York?
+8332632110186725550	False	Alinikisa Cheyo alikuwa askofu wa Kanisa la Moravian mwaka gani?
+-3122403924477710155	False	Je,Ian Fleming alibuni filamu ngapi kwa jumla?
+2107708844881305781	False	Kuna miji mingapi mikubwa nchini Australia?
+-8427200989239586632	False	Sokrates alikuwa mwalimu kwa miaka ngapi?
+2416798186472403126	False	Je, Maktaba ya kwanza ilifunguliwa wapi?
+513274301082960056	False	Nani alizindua somo la hesabu?
+7146945568143851701	False	Je,mishonari wa kwanza kufika Kenya ni nani?
+-6575506744169107268	False	Je, kuna aina ngapi ya nyati?
+2445969892373070011	False	Wimbo wa nini Chanzo ulirekodiwa mwaka gani?
+1028783943937646780	False	Kiongozi wa kwanza wa Roma ya Kale anaitwa nani?
+-1127295657031819073	False	Mji mkuu wa Brazil unaitwaje?
+-9180246388114341697	False	Je,Jackie Agyemang alizaliwa nchi gani?
+-1878184373649157950	False	Je,Marekani ina majimbo ngapi kwa jumla?
+8666762763761602752	False	Je, Galileo Galilei alizaliwa mwaka upi?
+-4010831639592898363	False	Astronomia ni nini?
+3822978623497248969	False	Je,mlima mrefu zaidi duniani ni ipi?
+1985823604211065041	False	Jamaica in idadi ya watu wangapi?
+-3398604882730446629	False	Ibada ya kipaimara ilianzia dhehebu lipi?
+2346386505194479839	False	Je,mji mkuu wa Urusi ni upi?
+5053551695561203936	False	Je,mke wa Kenneth David Kaunda aliitwa nani?
+396891890954064100	False	Iraki kusini ina idadi ngapi ya watu?
+-9161063894544183061	False	Je,kampuni ya mawasiliano ya Airtel ina makao yake makuu nchi gani?
+3225407118140403945	False	Je,Vincent Kigosi alizaliwa lini?
+6192365125101625577	False	Je, nchi ya Tanzania ina treni ya umeme?
+-4445144871786843924	False	Je,ni nini maana ya fizikia?
+-5210974232193441553	False	Barry Adrian Reese alianza kuimba mwaka gani?
+7907166478115000554	False	Rangi nyusi katika bendera ya Ujerumani inaashiria nini?
+5917093128924901613	False	Mji mkuu wa Uhispania unaitwaje?
+8032989208101646575	False	Je,mamalia mkubwa zaidi duniani ni yupi?
+-8093349071188852489	False	Mkufunzi wa kwanza wa Southampton mwaka upi?
+267794187435811060	False	Ukubwa wa Japani ni geographia ni kiasi gani?
+3555867589385908467	False	Je,kuna aina ngapi ya kisukari?
+-5740781030968508156	False	Je,rais wa kwanza wa Kenya aliitwa nani?
+4811558586434117891	False	Je,Jogoo anaweza ishi kwa takriban miaka ngapi?
+-7511723405749890808	False	Bahari ya kwanza kugunduliwa inaitwaje?
+4689247466142634243	False	Je,virusi vya ukimwi inakaa kwa mwili kwa muda gani kabla kuonekana?
+6846637787630866694	False	Je,mjii mkuu wa Israeli ni upi?
+8162121304624959749	False	Je,lugha ni nini?
+-482587758204817138	False	Je,albamu Ni Mimi ina nyimbo ngapi?
+-730102161527197425	False	Mlima Kenya una ukubwa gani?
+-7719527331490381544	False	Jina wa mji wa Belgrad linatokana na nini?
+5317070724544225562	False	Kanisa la kwanza duniani lilikuwa nchi gani?
+3508923401100214555	False	Je somo la kiswahili linafunzwa Uganda?
+-1343608221723094754	False	Rais mgani wa Kenya aliteua Tsavo Mashariki kama hifadhi?
+-2160261188289945313	False	Ugonjwa wa kisukari huletwa na kitu gani kikuu?
+-3360429756475412190	False	Je,Sudan Kusini ilifanywa kuwa nchi mwaka upi?
+116841172657250595	False	Je,Benjamin wa Mambo alizaliwa mwaka upi?
+-7514303665702641368	False	Rasi ina maana gani?
+-6188712079455534809	False	Dameski ina ukubwa gani?
+5933066399400292645	False	Nchi kubwa duniani inaitwaje?
+2109560212363850024	False	Mji mkuu wa Brazil ni upi?
+-685919700071460564	False	Kanisa la kitaifa la kwanza duniani ilikuwa nchi gani?
+5810514797739872559	False	Maandishi ya kigiriki yalianza mwaka gani?
+-3162790158981160653	False	Je,mji mkuu wa Uhispania ni upi?
+6292362859770994996	False	R. Kelly alizaliwa mwaka upi?
+-3022805895220281032	False	Je,sikukuu ya pasaka husheherekea mwezi upi kila mwaka?
+2067345827444674872	False	Je,Cardinal Otunga aliaga dunia mwaka upi?
+7907041768244388152	False	Je, Ademola Lookman alizaliwa lini?
+-4957992005270482618	False	Je,kuna tofauti kati ya Sungura na Sungura wa Kizungu?
+4872936625964077378	False	Antibiotiki iligunduliwa nchini gani?
+7412197085904560451	False	Je,sensa hufanya Rwanda baada ya kila miaka ngapi?
+1147618251710644550	False	Je,shirika la habari la kwanza nchi China ni ipi?
+6743563993105338693	False	Je,rais wa Madagaska mwaka 2019 ni nani?
+-1614264673123348153	False	Bahari kubwa kuliko zote ni ipi?
+-8621169124788903602	False	Je,rais wa kwanza wa Kenya aliaga akiwa na umri upi?
+5993742727118897484	False	Je,Bill Gates ana watoto wangapi?
+8595161275001135437	False	Je, Tanzania ina idadi ya watu wangapi?
+75212227060433234	False	Je waislamu hula n'gombe?
+6398977750275191121	False	Kilipukaji kiligunduliwa na nani?
+7698858812102713684	False	Mji wa Dar es salaam una soko ngapi kubwa?
+-7328728227609464486	False	Kwa nini binadamu wengine huwa weusi?
+7414007320766902618	False	Je, kasi ya nuru na kasi ya sauti ina utofauti gani?
+6630593861550817628	False	Nani alizindua saa ya mkono?
+-8292845440719761056	False	Gari aina ya Volkswagen ilitengenezwa kwa mara ya kwanza mwaka upi?
+-7949326189072064157	False	Je,klabu ya Chicago Fire inapatikana nchi gani?
+-3078221496616959647	False	2pac Shakur aliuwawa akiwa na miaka ngapi?
+8970239217504149854	False	Je,ugonjwa wa Ebola inapatikana Afrika pekee?
+-1989936297945407135	False	Je,Julius Nyerere aliongoza nchi ya Tanzania kwa muda gani?
+-9073104728152985241	False	Nnai alizindua tochi la mwangaza duniani?
+-5102030657552301712	False	Uskoti ni nchi iliyo bara gani?
+6822759571738894702	False	Hifadhi ya wanyama ya Serengeti ina ukubwa gani?
+3867546922323530093	False	Je,nyoka iko katika kundi gani ya wanyama?
+198782274278547826	False	Uajemi iko na ukubwa wa kiasi gani?
+-2367896124364897927	False	Papa wa 12 wa kikatoliki anaitwa nani?
+6891130586656862582	False	Carl Gustav Jung alizaliwa mwaka gani?
+-4100406204473560711	False	Je, mji wa Zanzibar una takriban watu wangapi?
+1848904264592388476	False	Je,mji mkuu wa fiji ni upi?
+-8533234228180618881	False	Je,ni bahari gani kubwa zaidi duniani?
+-1057470747971980931	False	St. Petersburg iligunduliwa mwaka gani?
+7799023085795824000	False	Kampuni ya Volkswagen ilianzishwa mwaka gani?
+-1986414485764763260	False	Maasai Mara inapatikana kwa kaunti gani Kenya?
+-1497368395011149436	False	Mwanadamu huwa na lita ngapi za damu mwilini?
+-256664909994831480	False	Nchi ya Ethiopia inatumia kalenda ya aina gani?
+-7602739862061874802	False	Kwa nini mji huu unaitwa New York?
+-6832797146471476851	False	Kwa nini mnyama Nyati-maji anaitwa hivyo?
+-1779195441318436466	False	Je mlima mkubwa zaidi nchini Uganda ni gani?
+-5309430796250476139	False	Carl Ross alizaliwa nchi gani?
+-381260270952922732	False	Michezo ya Afrika Nzima ilianzia wapi?
+-2491745435622088295	False	Jimbo la Virginia liko na wakazi wangapi?
+-3510717741070683750	False	Je,Roberto Carlos Da Silva Rocha alizaliwa lini?
+8979930697827348890	False	Gari safi lilivumbuliwa mwaka gani?
+-3577074055761702496	False	Mji mkuu wa  Uturuki unaitwaje?
+1929413639204405671	False	Je,kulingana na sensa ya 2009 Mombasa ilikuwa na idadi ya watu wangapi?
+-3039101079458586199	False	Je,Jose Mourinho ni mzaliwa wa nchi gani?
+3017785436557885864	False	Je,Kipchoge alistaafu kutoka riadha mwaka upi?
+-2499035169442778708	False	Je,mlima mrefu zaidi duniani ni upi?
+-5047996138454068818	False	Uambukizo wa mnyoo aitwaye whipworm unaitwaje?
+-7764667184923414096	False	Je,mji mkuu wa Israeli ni upi?
+-3759125922275794513	False	Mji mkuu wa South Sudan ni upi?
+-3934646917998202447	False	Hermann von Wissmann alianza upelelezi mwaka gani?
+13715563851907506	False	Mji wa  Melilla  una ukubwa gani?
+-1015889139056868941	False	Je,klabu ya Paris Saint-Germain ilianza lini?
+-2118985149297032780	False	Mtu wa kwanza kupanda Mlima Everest Mara mbili ni nani?
+-1312924585187667533	False	Je,Kenya ina kaunti kwa jumla?
+-2203348408900197961	False	Nani mwanzilishi wa somo la biolojia?
+-7403718910609206854	False	Je, nchi ya Marekani ina majimbo mangapi?
+-9040515946189762118	False	Je,ugonjwa wa kiakili husababishwa na nini haswa?
+5985731539534627257	False	Mji wa St. Petersburg  una vyuo vikuu vingapi?
+1177313135891059131	False	Je,meli ya kwanza ilifika Kenya lini?
+-8427959051550707262	False	Mchezo wa voliboli unachezwa na wachezaji wangapi?
+-3703105522128109119	False	Je,Mwai Kibaki alitawala Kenya kwa miaka ngapi?
+4263511146803974593	False	Je,Marijani Rajabu alizaliwa mwaka upi?
+4698458123500261825	False	Ni mwaka gani Bartholomew Diaz alifika Cape of Good Hope?
+-8182746280700022330	False	Siku ya ukimwi duniani huadhimishwa mwezi upi?
+6397851472657519042	False	Rais wa Irak mwaka wa 1980 alikuwa nani?
+-4884706292460097079	False	Je,Shinikizo la juu la damu inaweza pata mtoto wa umri wa chini ya miaka tano?
+5130951442784350663	False	Je, Nagib Mahfuz alipokea tuzo ipi ya Nobel mwaka 1988?
+-6241991009358589489	False	Je, albamu ya R U Still Down ina nyimbo ngapi?
+-8960123219550178864	False	Nchi kubwa zaidi barani Afrika ni ipi?
+6052776103760044495	False	Je,sayari kubwa zaidi ni ipi?
+2715122423262056913	False	Ne-Yo alianza sanaa mwaka gani?
+-1317719506371558956	False	Rais wa kwanza wa Italia alikuwa nani?
+-3994131003091144235	False	Je,neva ni nini?
+4511226715587473878	False	Je,neno platu lina maana gani?
+3153537782672781783	False	Je, kichwa cha binadamu wa kawaida kina ukubwa gani?
+785045275546870233	False	Je, Lagos ina idadi ya watu wangapi?
+4727540781325099479	False	Je,mto Nile ina urefu wa kilomita ngapi?
+-5610030087014264354	False	Je mziki wa hiphop ulianza mwaka upi marekani?
+-3134754421827092001	False	Je,kundi la ABBA ina wanachama wangapi?
+-4232955847253057055	False	Bendera ya Uthai ina rangi ngapi?
+5744822264561832415	False	Je,Michael Wamalwa Kijana  alikuwa katika chama gani ya kisiasa?
+6370873026140471777	False	Fiziolojia ni somo la nini?
+-1942953842923609627	False	Je, Rais wa Kenya 2019 Uhuru Kenyatta alisomea shule gani ya sekondari?
+4585070383066726889	False	Mamalia ni nini?
+-6549911271687024148	False	Je,mji mkuu Zambia ni upi?
+-4407774623564549648	False	Je,ziwa Baikal inapatikana katika nchi gani?
+6599663001959698926	False	Je,jina ya kisayansi ya tunda la ndimu ni gani?
+5682784558554448367	False	Nani alikuwa rais wa kwanza wa Tanzania?
+-4855902487572573707	False	Je,chuo kikuu cha Kenyatta kilianza lini?
+5548464190567748081	False	Je,Chuo Kikuu cha Daresalaam linapatikana sehemu jijini Daresalaam?
+1126687023172547060	False	Je,katiba mpya ilipitishwa mwaka upi nchini Kenya?
+9041816357042557427	False	Kampuni ya H.L. Green ilianzishwa lini?
+-2544923243650428425	False	Je,Steven Randall "Bob" Jackson alizaliwa mwaka upi?
+-1996803290504830465	False	Je,Ujerumani ina idadi ya watu wangapi kwa jumla?
+7202291563937444348	False	Je,WHO inamaanisha nini kwa kirefu?
+-3475529407228874231	False	Je,sikukuu ya roho mtakatifu husheherekewa mwezi upi?
+-2922438829355568631	False	Romano Prodi alijiunga na siasa mwaka gani?
+7221410223293223429	False	Mnyama wa kwanza kufugwa na mwanadamu ni yupi?
+6117041367612764678	False	Je, Ice Cube ana watoto wangapi?
+47999108120924686	False	Baba wa rais wa China ni nani?
+-4420537566735576561	False	Kamera ya kwanza inaitwaje?
+-5061244262147255790	False	Kifaa cha Hadubini kilianza kutumika nchi gani?
+-1800032059441167854	False	Lakabu ni nini?
+3854135414801924626	False	Kleopatra alikuwa malkia wa mfalme yupi?
+1209491569313542674	False	Jina la kisayansi la mahindi ni nini?
+-8116056012173110760	False	Je,mji wa Dameski ina idadi ya watu wangapi?
+537204748990771736	False	Kilimo cha mchele kinafanywa wapi nchini Kenya?
+6435332096167268886	False	Nkashama Kanku Kelly ana miaka mingapi?
+-6845611497213615585	False	Leopold I alikuwa mfalme wa Ubelgiji kwanzia mwaka upi?
+-8898803096142925278	False	Nani ndiye tajiri kabisa barani afrika?
+4752137506183131678	False	Je,mashariki ya Uingereza ina idadi ya mito ngapi?
+1231329334551740962	False	Je,Uqba ibn Nafi alizaliwa mwaka upi?
+-2612052298777349597	False	Je,mji wa Gold Coast inapatikana nchi gani?
+-1204102469086100956	False	Nini maana ya neno Mwene?
+774917145924125221	False	Nchi ya Israeli iko na ukubwa wa kiasi gani?
+-7734910723440078295	False	Je,mimba ya fumbatio ni hatari kwa mama?
+8971571306362659373	False	Chris Vance alizaliwa mwaka upi?
+-8169874851048291787	False	Je,Jean Bosco Mwenda alizaliwa mwaka upi?
+-1233325873931697612	False	Je,rais wa kwanza wa Meksiko alikuwa nani?
+3753116231501070904	False	Je,Ngugi wa Thiong'o ana watoto wangapi?
+-7790227078518435263	False	Mto Nile ina urefu wa kiasi gani?
+-842851310274743745	False	Je,Kenya ina idadi ya kaunti ngapi kwa jumla?
+-1829361264015986111	False	Ethiopia ina ukubwa gani?
+-5097519254973259196	False	Je, Kenya ina vyama ngapi vya kisiasa?
+-1157092420908481981	False	Bakteria ni ya aina ngapi?
+-812624746780188092	False	Ukuta wa China ulijengwa mwaka gani?
+5700429351202398790	False	Ni nani mwanzilishi wa kampuni ya Microsoft?
+4590067750317429319	False	Nani alizundua mfumo wa nyota angani?
+6268587187693335110	False	Nini maana ya neno makaburu?
+-8234358698290576817	False	Nchi ya Denmark ina visiwa vingapi?
+-4826502697237458353	False	Je,seli nyekundu ya damu ina kazi gani kuu kwenye mwili?
+4798392064930460238	False	Kuna elementi ngapi za kemia?
+1025288207860216406	False	Je,nani nahodha wa kwanza duniani kuendesha ndege?
+7022118529972929112	False	Siku ya maji duniani husheherekewa lini?
+-1397870936910904741	False	Je,bwawa kubwa duniani ni gani?
+1598126648490148446	False	Steve Hawking aliandika kitabu gani?
+809991510045950559	False	Je,nani mwanzilishi wa kampuni ya Visa Inc?
+1330044348326548062	False	Choo cha shimo huchukua takriban muda gani kujaa?
+7329428382434546268	False	Kuna makabila mangapi mjini Mariakani?
+-7004294274934480282	False	Mgonjwa wa kwanza wa kikohozi kikuu anaitwa nani?
+6747087147139527266	False	Wikipedia ya Kivietnamu ilianzishwa mwaka gani?
+-3894440609116966298	False	Je, Dk. Angela Merkel ana watoto?
+7946398425076195939	False	Je,Haile Selassie alizaliwa mwaka upi?
+-7910123628898016662	False	Ni mnyama yupi mkubwa zaidi porini?
+6404027939452519015	False	Kuna maduka mangapi ya United Drapery Stores?
+-5606943881117584777	False	Je,Uganda ilipata Uhuru mwaka upi?
+-5563846073198476679	False	Aina za matunda ni ngapi duniani?
+-3736326532935560581	False	Aristoteli alifariki katika mji gani?
+263303611267162747	False	Bahari ni nini?
+-8878346808897801601	False	Je,gazeti la The Wichita Eagle ilianza mwaka upi?
+-7468827508360895868	False	Mlima kenya ina ukubwa kiasi gani?
+-3491767857368640892	False	Je,William Fichtner ana watoto wangapi?
+4415667631890879108	False	Je, kiongozi wa kwanza wa ujerumani anaitwa nani?
+3865539784918397578	False	Je, panya hubeba uja uzito kwa muda gani?
+-8363530738964577649	False	Je,idadi ya watu jijini Nairobi ilikuwa ngapi wakati wa sensa 2009?
+-7558301419521527150	False	Kuna idadi ngapi ya Wasukuma nchini Tanzania?
+7007968018030129808	False	Je,Fransisko wa Asizi alizaliwa lini?
+-8010168536738987369	False	Hisabati kiligunduliwa nchini gani?
+825435995536794261	False	Kifaduro kina tiba?
+4581464227105596053	False	Je huduma ya afya kwa hospitali ya serikali ya Uganda ni bure?
+2593973127302926995	False	Je,mkufunzi Arsene Wenger alikaa Arsenal miaka ngapi?
+-8636552871045541223	False	Je,saratani kuna saratani ya sikio?
+-5787756843352907109	False	Je,rais wa kwanza nchini Tanzania alikuwa nani?
+732307812761584282	False	Je, hali ya hewa hupimwa kwa kifaa gani?
+-2086993371797839204	False	Mji mkuu wa Uskoti ni upi?
+-229550680278871394	False	Nchi ya Kenya imekuwa na rais wangapi?
+4278907412542300830	False	Je,Steven Zuber alijiunga na klabu ya Hoffenheim mwaka upi?
+-4500841120545529184	False	Je,msanii Sean Paul alianza mziki mwaka upi?
+7981920909338538652	False	Nani mwanzilishi wa Geac Computer Corporation?
+7991075137867387549	False	Kata kubwa nchini Tanzania linaitwaje?
+3592901929160323743	False	Kampuni ya Unga limited ina milikiwa na nani?
+-156767821692513629	False	Je,idadi ya watu nchi ya Uganda ni upi?
+-6761898733976567127	False	Kundi la Temeke lilianzishwa na nani?
+8984317293927203497	False	Filamu ya  Tatu Chafu imeandikwa na nani?
+-3656574007035350353	False	Je,sensa hufanywa baada ya kila miaka ngapi nchini Tanzania?
+2308884405878391470	False	Je,michezo ya Olimpiki iliandaliwa nchi gani kwa mara ya kwanza?
+-294625049808854348	False	Je Oslo ni mji mkubwa wa nchi gani?
+-4711571159606459721	False	Company Man ni sehemu ya kumi na saba ya msimu wa kipindi gani?
+-51208200402603339	False	Vita ya dunia ya kwanza lilianza mwaka gani?
+-6696648293766516039	False	Je,Michael Jackson alikuwa na ndugu wangapi?
+-3192851029721255233	False	Je Kenya ina majimbo ngapi kwa jumla?
+-7440071431980875069	False	Je, Kisiwa cha Kupro kina ukubwa gani?
+3754292739613106886	False	Je,Zinedine Zidane ni raia wa nchi gani?
+5910622532875911880	False	Je,kinga kuu ya Ukimwi ni gani?
+4617261472920715977	False	Je,nini husababisha uchungu wakati wa hedhi?
+104161981615084234	False	Je, nchi ya Roma ina takriban watu wangapi?
+4249361014277358285	False	Je, mlima wenye theluji kileleni nchini Kenya unaitwaje?
+7809517861725119188	False	Kombe la Mataifa ya Afrika hufanyika mara ngapi kwa mwaka?
+4165146810960405206	False	Je,Victor Wanyama alizaliwa lini?
+-8321747359847189796	False	Nyuki ni nini?
+-3335465218011852069	False	Je,Simoni Petro ndiye alimkana yesu?
+-6520949524742352163	False	Dublin ni jiji kubwa la nchi gani?
+-4056323068620504354	False	Tanzania ina mito ngapi kwa jumla?
+3370953748412502749	False	Kiongozi wa mapatano baina Uingereza na Ujerumani kuhusu Afrika na Helgoland anaitwa nani?
+617881063566082785	False	Kitabu cha kwanza kinaitwaje?
+5741905034844992229	False	Je, sayari ya mirihi ina kipenyo kiasi gani?
+5434428365053162214	False	Nchi gani ndogo duniani?
+-5907018000218107156	False	Je,mapinduzi ya ufaransa ulianza lini?
+-7203038202881056018	False	Je,mti mrefu kabisa duniani inapatikana wapi?
+-794920638107340052	False	Je,Nina Erin Myers alizaliwa mwaka upi?
+-1774341573376679186	False	Jina la farasi wa Buddha lilikuwa na jina gani?
+-1334181511890554130	False	Je, ugonjwa wa Malaria husababishwa na mbu yupi?
+6737582092429734639	False	Umoja wa Mataifa ulianza mwaka gani?
+-4165566707314412813	False	Je,Abdul Rahman Baba alizaliwa lini?
+-823367694868393229	False	Jina piano lina maana gani?
+3993038967719944951	False	Chelsea F.C. ilizinduliwa lini?
+-3186660495083023620	False	Je,ni bara gani kubwa zaidi duniani?
+645903926392595196	False	Je,paka anaeza ishi kwa miaka ngapi?
+-3565203499519565058	False	Je,Tanzania ina mikoa ngapi?
+4772742800586015483	False	LL Cool J, alizaliwa mwaka gani?
+3370155484025398012	False	Je,mziki wa kizazi kipya nchini Tanzania inaitwa vipi?
+-3463202375823359231	False	Nchi ya Argentina inatumia sarafu gani ya fedha?
+7548190442785723133	False	jiji la Mwanza lina idadi ngapi ya watu?
+-1605556157796424958	False	Mke wa rais wa kwanza wa Tanzania anaitwa nani?
+-6026912976406838523	False	Italia iko pande gani ya dunia?
+8508252703681676034	False	Ni nani aliyegundua vidubini vya archaea?
+3829553526365586180	False	Rais wa kwanza wa nchi ya Syria anaitwa nani?
+771999969685148423	False	Je, buibui baharini ana miguu mingapi?
+-9087307648298802418	False	Je,sayari ya Zuhura ni ya ngapi kutoka kwa jua?
+661081147723752205	False	Mapinduzi ya Kifaransa yalifanyika mwaka gani?
+-3454652092170714352	False	Je,mji mkuu wa Kanada ni ipi?
+3135438079899206416	False	Tsavo Magharibi iko na ukubwa wa kiasi gani kijiographia?
+6961559292426056466	False	Jumba la KICC lina ghorofa ngapi?
+6645859399253574421	False	Je, Ugonjwa wa Saratani ya koo una tiba?
+-505207623955291369	False	Jina Krioli linatokana na nini?
+-9186953857490427104	False	Je,John Sibi-Okumu alisomea katika chuo gani cha upili?
+-4123509871078984927	False	Je,Afande Sele alishinda tuzo gani mwaka 2003?
+458860258337297185	False	Masinde muliro alifariki kutokana na nini?
+-2322274315499658459	False	Je, Togo ilipata uhuru mwaka upi?
+6748499787216274211	False	Je,mji mkuu wa Irani ni upi?
+8693769649198998307	False	Je,wakati wa sensa mwaka 2009 Nairobi ilikuwa na idadi ya watu wangapi?
+5498729684296745765	False	Rais wa kwanza wa Amerika kujiuzulu Urais aliitwa nani?
+5947807510501372705	False	Je nchi ya Sydney iliandaa Olimpiki mwaka upi?
+637049935310340905	False	Mtindo wa gazeti la porojo ni upi?
+5485784597269705506	False	Je,Steven Frayne anaitwa alizaliwa lini?
+-5715282468706249940	False	ISS ilianzishwa kutokana na mapatano baina ya nani?
+-7170742600626281678	False	Bill Gates ana watoto wangapi?
+-1315815875942804688	False	Je,Ophrah Winfrey anamiliki kituo gani cha televisheni?
+-796116861357092045	False	Antiokia ya Siria inapatika wapi?
+-2062988475040828620	False	Je,nani alikuwa afisa mkuu mtendaji wa kwanza Safaricom?
+-365555121646910666	False	Sahil ina maana gani?
+-7486122499864616134	False	Je,rais wa kwanza nchini Uganda alikuwa nani?
+1753157741367186232	False	Mama wa rais wa Japani ni nani?
+-8195249265768979651	False	Zanzibar iko na ukubwa wa kiasi gani kijiographia?
+-8468638474157841603	False	Je,Yohane Hus alizaliwa mwaka upi?
+2334492567495856951	False	Mchezo wa vikapu huchezwa na wachezaji wangapi?
+2275886083712959293	False	Mji mkuu wa Kenya ni gani?
+7077887429989978935	False	Simu ya upepo ilizinduliwa lini?
+-6630599911713164481	False	Rais wa kwanza wa Sudan alikuwa nani?
+-1443057500433136832	False	Je,chama cha FORD-People ilianza mwaka upi?
+-6015153575168462012	False	Je,Tanzaia ina mito ngapi kwa jumla?
+-518167030209301692	False	Mji mkuu wa Namibia ni upi?
+8310495914761560901	False	Hendrick Witbooi alikuwa chifu kwa miaka mingapi?
+-4707667064599198901	False	Oasisi ni nini?
+7475601958886122311	False	Je,Ron Kenoly ana watoto wangapi?
+6160612588070695751	False	Watoto wa rais wa Marekani ni nani?
+3491706103344694091	False	Upimaji kwenye maabara ulianzia wapi?
+3703231356070585168	False	Mto mrefu zaidi nchini Australia ni gani?
+6648852473571545935	False	Mji mkuu wa Hawaii unaitwaje?
+6962008675923202903	False	Pesa inayotumika Zanzibar inaitwa aje?
+-8025928994455342242	False	Kanda la Sahel lina Ziwa ngapi?
+7409705961000215385	False	Je,John Kennedy aliuawa mwaka upi?
+-1654007632476826790	False	Mji wa Frankfurt uko na idadi ngapi ya watu?
+-956854637447244960	False	Chuo kikuu cha kwanza nchini Afrika Kusini kinaitwaje?
+-9132308425036520604	False	Manufaa ya mvinyo ni yapi kwa mwanadamu?
+-5691875407447981207	False	Je,nani aligundua kifaa cha darubini?
+-1355048736112782488	False	Mlima Karmeli unapatikana wapi?
+-6221621134274493588	False	Lugha ya kitaifa nchini Israeli ni gani?
+-5104291742849481874	False	Baba wa Ujamaa ni nani?
+6112427711155110763	False	Alain Kahanga Dekula alijiunga na sanaa ya muziki mwaka gani?
+4322545911296078701	False	Nani mwanzilishi wa gazeti ya The Calgary Herald?
+3695083982589469550	False	Louis Pasteur aliweka misingi gani?
+6694710235263140719	False	Kampuni ya kwanza ya bia za kibiashara nchini kenya ilikuwa gani?
+8741951107016250223	False	Ni sentimita ngapi iko kwa mita moja?
+-1644942320303451277	False	Je, mji wa Amsterdam una ukubwa gani?
+-1059125097483742350	False	Mlipuko wa Hiroshima ulitokea mwaka gani?
+-7733943457182493832	False	Je,kuna saratani ya sikio?
+7659449739688612722	False	Je,benki gani kuu nchini Kenya?
+-7446623091369827460	False	Rais wa kwanza wa Somalia aliitwa nani?
+-3267736210608381061	False	Spishi ni nini?
+-4897715456057355398	False	Nani mwana folojia wa kwanza duniani?
+-1534300195660876941	False	Eneo la Bakteria lina ukubwa gani?
+-4263472574273805442	False	Je,Fransisko wa Asizi alikuwa kiongozi kwa muda gani?
+-5624555195821825150	False	Wimbo wa kwanza kiliimbwa na nani?
+-3511707608116948094	False	Zebaki iko na maana gani?
+5324936160838345600	False	Masomo ya sayansi ya wadudu inaitwaje?
+2586401372648788867	False	Je,simba hubeba uja uzito kwa miezi ngapi?
+2751836999683363718	False	Je,nani mwanzilishi wa mziki wa hIhop nchini Tanzania?
+6347424209641546633	False	Filamu ya Alladin ina sehemu ngapi?
+5165017036180079497	False	Uislamu ulianzia wapi?
+310736681486521230	False	Je,mji mkuu wa Ghana ni upi?
+-3636666829935094896	False	The Hard Part ni sehemu ya ishirini na moja ya kipindi gani?
+4889432220449551246	False	Ni ziwa gani lenye samaki wengi wa tilapia nchini Kenya?
+7784962932045816721	False	Uwanja wa Turf Moor ulianza kutumika mwaka upi?
+4989654465241334674	False	Je,Brian Haule alizaliwa lini?
+2681122305774441366	False	Muimbaji Celine Dion ana miaka mingapi?
+-680516207995329640	False	Eneo la bahari la Atlantiki ni upi?
+279017205540987801	False	Nani mwandishi wa autobiografia ya Adolf Hitler?
+6521917219049018262	False	Mlima kenya iko wapi?
+6701392555423052697	False	Nile ya buluu ina urefu gani?
+-2246037054957112420	False	Aina ya mawe ni ngapi?
+-2508531847844150370	False	Kocha wa Liverpool F.C mwaka 2008 anaitwa nani?
+6682799795637003164	False	Binadamu wa kwanza kutua kwenye mwezi anaitwa nani?
+-3618358338006428760	False	Je,nchi ya Iceland inatumiwa sarafu gani ya pesa?
+-1804207061919009881	False	Kinasasauti kiligunduliwa na nani?
+4976384395630400424	False	Chanzo kikuu cha kisukari ni gani?
+-1937423014458260563	False	Nchi ya  Pakistan ina vitongoji duni vingapi?
+-5098539480568683599	False	Je,msimu wa kwanza wa Heroes ina sehemu ngapi?
+5970090274195428269	False	Rais wa kwanza wa Urusi aliitwa nani?
+2753941904269337521	False	Rais John Magufuli wa Tanzania alijiunga na siasa mwaka gani?
+6352881792136352690	False	Mji mkubwa nchini Afrika Kusini unaitwaje?
+-1790506397219220553	False	Je,nchi kubwa zaidi bara Asia ni ipi?
+663414389387199428	False	Silika kadiri ni nini?
+-1088451041684257852	False	Je,msichana wa umri wa miaka tisa anaweza pata uja uzito?
+421569171983958982	False	Ndege ya kwanza ilitengenezwa na nani?
+-1724123407803771964	False	Je,Nkashama Kanku Kelly alianza muziki wa dansi mwaka upi?
+107551274445407176	False	Je,Diamond Platnumz  ana watoto wangapi?
+469876380615922628	False	Je,mlima mkubwa zaidi nchini Tanzania ni gani?
+-4229006933587790901	False	Yvonne Cherry alianza kuigiza mwaka gani?
+4483162096047240141	False	Rangi ya Samawati katika bendera ya Jibuti inaashiria nini ?
+-8018644581265030190	False	Bara Hindi lina ukubwa gani?
+8219855319686882254	False	Je,Manchester United ilizinduliwa lini?
+-2614225036774313002	False	Ni nchi gani ina idadi kubwa ya watu duniani?
+-5774763285612461096	False	Je ni hatari kwa mgonjwa wa kisukari kutumia pombe?
+-2956835625885756457	False	Kanisa la Anglikana lilianzishwa na nani?
+-7976345920944118819	False	Je,elimu ya shule ya msingi katika shule za umma nchini Kenya ni bure?
+8411334974158750688	False	Pasifiki ina hali joto aina gani?
+-7320018581798771738	False	Je,mnyama mkubwa zaidi duniani ni gani?
+-2275900397729508381	False	Adrenali ni nini?
+8384508652393362401	False	Upasuaji wa kwanza kama jinsi ya kujifungua ulifanywa wapi?
+-1888705103339723801	False	Je,papa wa kwanza  katika kanisa katoliki duniani aliitwa nani?
+-3126784246392859671	False	Muungano wa bara uropa ina wanachama wangapi?
+-9154034628121652244	False	Je,siri ni nini?
+-6866258328105368593	False	Je ziwa Viktoria ndio yenye kuleta samaki wengi nchini Kenya?
+1932984078251983854	False	Mji wa Tanga uligunduliwa mwaka gani?
+-3666944402518735889	False	Je, geji ni nini?
+7349304011137147886	False	Je,stesheni ya televisheni ya kwanza Marekani ni gani?
+-3851447912468302862	False	Leopold II alizaliwa mwaka upi?
+2457003720491652083	False	Je, mlima mrefu zaidi Afrika ni upi?
+-5699364373488720905	False	Je,Mengistu Haile Mariam alizaliwa lini?
+-7163675375480617989	False	Shule ya Aleksandria ilianzishwa na nani?
+656682204230374397	False	Simoni Petro ameandika kitabu gani cha Biblia?
+-7343471246710615039	False	Mfumo wa KCPE ulianza lini Kenya?
+-2175096626635197441	False	Better Halves ina misimu mingapi?
+-8658393573396511741	False	Je, elektroni ni nini?
+1896533025302561793	False	Je,lugha ya kiswahili ndyio lugha rasmi ya nchi ya Tanzania?
+8572731752288949248	False	Ukubwa ya Uturuki kijiographia ni kiasi gani?
+-4576184208243702777	False	Lugha ya kiswahili ilitokea wapi?
+8020632684197954563	False	Nani alianzisha aina ya muziki ya Simfoni?
+-4766208037952154614	False	Je.Tanzania ina mito ngapi kwa jumla?
+-106991674038692855	False	Kuna elementi ngapi ?
+-498014927564651509	False	Albamu ya L'Animal ina nyimbo ngapi?
+-549020215745780723	False	Rais wa china ni nani?
+1555548431510115344	False	Je,Thomas Teye Partey alizaliwa mwaka upi?
+4756175796454425615	False	Vita,vya pili vya dunia vilianza mwaka upi?
+2686409063646004241	False	Karatasi ya kwanza ilitumika nchini gani?
+-4407006336671005677	False	Je, ndovu hubeba mimba kwa miezi ngapi?
+2942702790302585872	False	Kanisa la kwanza lililo anzishwa na Martin Luther ni lipi?
+6900392592660526096	False	Je,Sancho Gracia alianza uigizaji mwaka upi?
+2790405342365791253	False	Je,Nanyuki iko katika kaunti gani nchini Kenya?
+-6735826419403824103	False	Samir Nasri alizaliwa mwaka gani?
+-6259083884971166691	False	Rais wa Iraq anaitwa nani?
+7200863616571868185	False	Je, Carl Gustav Jung alizaliwa lini?
+3169431229209670683	False	Je,ni Jumba ndefu zaidi nchini Kenya ni ipi?
+1735059003499504672	False	Ni nani anamiliki British Broadcasting Corporation?
+1978783913322365984	False	Je,mke wa kwanza wa rais wa Tanzania alifahamika kama nani?
+3369959498204476447	False	Je, ufugaji wa wanyama ni mfumo wa kilimo?
+3029261962965402658	False	Mgodi mkubwa wa dhahabu nchini Tanzania unaitwaje?
+1858398725557109797	False	Kina cha ziwa Chad kina urefu gani?
+-569907358634757073	False	Simba huishi kwa muda gani?
+-6455235366652861379	False	Lugha ya kitaifa Misri ni gani?
+-2167967904002100164	False	Je, maua ni dawa?
+55851934807376960	False	Je,mto mkubwa gani zaidi bara Afrika ni?
+-5555850198267788218	False	Je,msitu mkubwa zaidi nchini Kenya ni ipi?
+6902536583783982146	False	Rais wa Kenya wa kwanza alikuwa nani?
+-114385795913001913	False	Mji mkuu wa Khartoum una takriban watu wangapi?
+-7932173363018861494	False	Kuna aina ngapi za bakteria?
+-2809104464389454769	False	Je,Msitu mkubwa zaidi Marekani ni upi?
+-4219897927275195311	False	Je ni sayari gani ndogo zaidi?
+882071597674505297	False	Je,Melissa Arnette Elliott ana watoto?
+-193139129165425582	False	Hisabati iligunduliwa mwaka gani?
+8432527357111460950	False	Shirika la kutetea haki za binadamu nchini Uganda linapatikana katika mji upi?
+-3733824654860745635	False	Je mto mkubwa sana Afrika ni gani?
+2670619790027052123	False	Je, pombe ina sababisha saratani?
+-6355535460821584800	False	Je,nani papa wa kwanza wa kanisa la katoliki?
+-4929386581552774047	False	Je,rais wa kwanza wa Ujerumani alifahamika kama nani?
+-6597338304732986271	False	Je,mke wa  Kofi Annan aliitwa nani?
+1991392307899999332	False	Je,rais wa kwanza wa Urusi aliitwa nani?
+-7264328445013728152	False	Je,Nollywood ni jina ya filamu za nchi gani?
+-152679410462268311	False	Je,Paul McCartney alikuwa katika kundi gani la wanamuziki?
+-3552521013891771279	False	Je,nani mwanzilishi wa kampuni ya Google?
+-1718868495838391174	False	Paul Labile Pogba  alianza kucheza soka akiwa na miaka mingapi?
+5048358368524285051	False	Mshairi Christopher Richard Mwashinga  alizaliwa wapi?
+-6953708268515199869	False	Je,nyota ya Kutubu ina ukubwa kiasi gani?
+9123531777322472575	False	Je sarafu ya Kenya yaitwaje?
+7376457074529977473	False	Zanzibar inatumia sarafu gani ya pesa?
+8702825636732671112	False	Je,mji mkuu wa Meksiko ni upi?
+-1186756907875396464	False	Mlima mkubwa zaidi duniani ni upi?
+-7871224948211260266	False	Je,Kifaru iko katika spishi gani ya wanyama?
+1626629495950980245	False	Kabila gani Kenya iko na idadi kubwa ya watu?
+-5082570793623874404	False	Ugonjwa wa Alzeima iligunduliwa mwaka gani?
+-3993438443988417380	False	Je,ugonjwa wa Malaria una chanjo?
+-2550538574114024292	False	Je,Fidel Castro alikuwa rais wa nchi gani?
+2419881329058555037	False	Je,nani rais wa kwanza wa Uturuki?
+-3401140729124064085	False	Je,Wilfred Ombui Moriasi alisomea chuo cha upili gani?
+4766277539305788588	False	Ni mto upi mrefu zaidi nchini Pakistani?
+-9031474946681375566	False	Je,soko kubwa zaidi ya matunda nchini Kenya ni ipi?
+-2091420399889668944	False	Mji mkuu wa Marekani ni upi?
+-1652093950723144526	False	Je,Jomo Kenyatta alizaliwa lini?
+8804478098977690800	False	Huduma ya  M-pesa  ilianza mwaka gani?
+-5202359444356533065	False	Rais wa kwanza wa Ethiopia aliitwa nani?
+-7127360260442823492	False	Je,Ziwa kubwa zaidi la maji safi barani Afrika ni lipi?
+-166069141856709447	False	Sumaku iligunduliwa na nani?
+392188511098803386	False	Je ni kilomita ngapi kutoka Mexico mpaka Marekani?
+4851720036711052473	False	Nchii ngapi ziko ulimwenguni?
+7969905647601353914	False	Nchini Kenya masomo ya Sekondari huchukua miaka mingapi?
+4620631098361472187	False	Je,kemikali ni nini?
+-8710522261737835331	False	Je,asili ya jina Kit-Mikayi ni?
+4828272765425767612	False	Je, ndovu huishi kwa miaka ngapi?
+5176071996781302974	False	Mji mkuu wa Mexiko unaitwaje?
+-1608662096804526907	False	Kuki ya kompyuta ina maana gani?
+-2989495133514259253	False	Je,Argentina ilishiriki katika kombe la dunia mwaka 2019?
+8398793315768313032	False	Je,klabu ya Chelsea inamilikiwa na nani?
+-4675565207206038319	False	Kuna atomia ngapi katika jedwali la elementi?
+-2665256427095546669	False	Je,R. Kelly alianza kuimba mwaka upi?
+5506590680452601040	False	Wimbo wa Go On Girl  ulirekodiwa mwaka gani?
+-7693045154002901800	False	Je rais Uhuru Kenyataa alikuwa mbunge wa wapi kabla ya kuwa rais?
+-3346380219686382375	False	Nchi ya Kongo ilipata uhuru mwaka gani?
+2517154128518554842	False	Mto Kongo una urefu gani?
+-8975631442267306783	False	Je Mchezo wa Ng'ombe ulianza mwaka upi Uhispania?
+-1379652015703071518	False	Kanisa la kwanza la kianglikana lilianza wapi?
+-7069925936175700762	False	Mwanahabari wa kwanza duniani aliitwa nani?
+7793693522225923299	False	Rais wa kwanza wa marekani ni nani?
+-5876849575400655637	False	Je,Miroslav Klose ana watoto wangapi?
+-8194377810467961617	False	Filamu ya The Good Doctor ina misimu mingapi?
+-1422935182226336524	False	Je,kundi la Al-Jihad ya Misri ilianzishwa na nani?
+4438700682314753268	False	Mji mkuu wa Armenia ni upi?
+1659605691635770618	False	Makao makuu ya UNESCO ulimwenguni yako wapi?
+2395984365101241593	False	Je,ugonjwa wa trakoma unaweza kusababisha upofu?
+-6734480392383978236	False	Je,Kampuni ya East African Breweries ilianzishwa mwaka upi?
+-6738794663418841849	False	Bergisch Gladbach ina idadi ngapi ya watu?
+-6275426454071511798	False	Je, kuna aina ngapi ya nyuki?
+-4584179846879455988	False	Visiwa vya South Georgia vina ukubwa gani?
+-2474524581523651315	False	Je,maabara ya Minciu Sodas ilianza lini?
+4009008034058142989	False	Jina Zeu linatokana na nini katika dini ya Ugiriki?
+3209491525937546511	False	Mji mkuu wa Poland unaitwaje?
+4873093788287321359	False	Je, Sepsisi ina tiba?
+-6146014702580587245	False	Ghorofa ndefu zaidi ulimwenguni inapatikana katika nchi gani?
+-3737696203510659825	False	Je,nani alitengeneza gari la kwanza la aina ya Benz?
+-4791750303888657132	False	Je, wimbo wa Girlfriend uliweza kurekodiwa na Michael Jackson?
+2247068648656844058	False	Geline Alfred Fuko alizaliwa mwaka upi?
+4373901563371398428	False	Seli za gameti iko na maana gani?
+-8857948744024251102	False	Je,nani wa kwanza kupanda mlima Kilimanjaro?
+6520102418465105182	False	Kuna njia ngapi za kutoa taka mwilini?
+-5285323748788693727	False	Je,papa anaeza ishi kwa miaka ngapi?
+-2949270779527453405	False	Je,ugonjwa wa Malaria inaweza kuambukizwa
+7988677725243430172	False	Ngozi ni nini?
+-1218712871103466201	False	Je,ni rais yupi wa Marekani aliuawa kwa kupigwa risasi?
+-2319398940855036632	False	Elijah Masinde alizaliwa mwaka upi?
+-5155168352554089164	False	Je, kuna spishi ngapi za Samaki?
+5056706128637441328	False	Je,nani mwanzilishi wa mchezo wa StarCraft?
+-1508537761511680714	False	Mji mkuu wa Shirikisho la Amerika ya Kati ulikuwa upi?
+2896919185911223606	False	Uskoti ni nchi ya bara lipi?
+-3274491764044487367	False	Je, Mlima mrefu zaidi Tanzania ni upi?
+-709585589732973256	False	Je, Tanzania ina majimbo ngapi kwa jumla?
+7635899371726361910	False	Dini ya Ukristo ilianza lini?
+-3499048527203769028	False	Je,mlima Kilimanjaro in urefu wa mita ngapi?
+-290753980163599041	False	Umar ibn al-Khattab alifariki mwaka gani?
+4140186589782668607	False	Simoni Petro alifariki mwaka gani?
+-1142458558439905982	False	Je,Mapinduzi ya kijeshi ya 1982 nchini Kenya ilipangwa na nani?
+5998274533114770752	False	Website ya kwanza inaitwaje?
+7456280544466412870	False	Rais wa Marekani mwaka wa 1970 anaitwaje?
+-6370821069008353969	False	Kifaa cha kupima mvua kinaitwaje?
+-9113449763386874542	False	Dubai iko na wakazi wangapi?
+-7339709022060214957	False	Meli ya kwanza ilitengenezwa mwaka upi?
+8062636401775564108	False	Timu ya taifa ya Ufaransa inaitwaje?
+-6335668013450554023	False	Je, hifadhi ya Tsavo inapatikana eneo gani?
+3483940546466489687	False	Je,Christiano Ronaldo alikuwa klabu gani kabla kujiunga na Juventus?
+1394111778820302175	False	Je,hospitali ya Mathari ilianza mwaka upi?
+433416420846609762	False	Je,Nairobi ina idadi ya watu wangapi?
+-3790065314315438746	False	Je,nchi ya Dubai ina idadi ya watu wangapi?
+-548179568806918803	False	Je, mamake Hussein ibn Ali alikuwa anaitwa nani?
+-2731866962231331474	False	Indonesia ina makabila mangapi?
+-7454815006501493380	False	Je,bendera ya Vietnamu ina mito ngapi kwa jumla?
+-8737326912066157188	False	Je, kuna vyuo ngapi vikuu nchini Misri?
+-3386041737815452293	False	Je, ni kina nani wanaoishi Antaktiki?
+-3074582735405075075	False	Rais wa kwanza nchini Italia alifahamika kama nani?
+8422129410232059260	False	Giacomo Tedesco ana miaka mingapi?
+-9200204660714801790	False	Ben Pol ana watoto wangapi?
+418122898197091711	False	Mji mkuu nchini Uturuki ni upi?
+1720987148627264898	False	Ikulu ya Kenya ilitengenezwa mwaka upi?
+-9004479366273276538	False	Mji mkubwa nchini Ufaransa unaitwaje?
+7015559287400613249	False	Meddie Kagere alizaliwa mwaka upi?
+3740958668914701697	False	Je mayai ni protini?
+493245726933104006	False	Je, binadamu ana nia ya kuruka mbali zaidi angani?
+1374957363660707208	False	Kemikali ni nini?
+916488402516022667	False	FORD-Asili ilianzishwa na nani?
+-7251644886203599466	False	Je mvua hunyesha miezi gani nchini Kenya?
+-7664841683415657063	False	Kuna metali ngapi ambazo ni haba duniani?
+-100283409195784809	False	Je,mke wa aliyekuwa rais wa Marekani John Kennedy aliitwa nani?
+7043008615600854423	False	Je, Iddi Amin alitawala Uganda kwa miaka ngapi?
+-3854688382415338082	False	Je,ugonjwa wa Polio ina tiba?
+971538082528286113	False	Je, ugonjwa wa polio ina tiba?
+-2244580593083333213	False	Lugha rasmi ya nchi ya Rwanda ni ipi?
+-5873189156654053977	False	Mama yake Charly Musonda anaitwa nani?
+-4890178060903897688	False	Ida Ljungqvist alizaliwa wapi?
+1249947361132975525	False	Mnyama mkubwa duniani katika porini ni yupi?
+5402167300860642727	False	Kuna bandari ngapi mjini Mombasa?
+4208090771309438376	False	Mlima kubwa Afrika ni gani?
+-5091269173924346449	False	Je,Nigeria ilipata Uhuru mwaka upi?
+-5287169324435393103	False	Ufalme wa Buganda ulianza lini nchini Uganda?
+-6477081876764482123	False	Reli ya SGR ya Kenya ilizinduliwa mwaka gani?
+-7940973438734625354	False	Donald "Flash" Gordon alisomea urubani wapi?
+-3138122951539886667	False	2Pac alizaliwa mwaka upi?
+-4486726711909222983	False	Je,msitu gani kubwa zaidi duniani?
+-974760903820442183	False	Je,mke wa Ellen DeGeneres anaitwa nani?
+-6087874294525614659	False	Ni bara gani duniani ina jangwa kubwa zaidi?
+2403005137326728638	False	Je,katiba ya Kenya ina kurasa ngapi?
+-7670800381197810236	False	Je, ni kifaa gani kinatumika katika upimaji-ramani?
+8131500239745840575	False	Je, mtandao wa youtube ilizinduliwa mwaka upi?
+3807589709296960962	False	Mnara wa kwanza wa taa ulitengenezwa nchi gani?
+-2392562754361231926	False	Je, Chad ina idadi ya watu wangapi?
+-7068212634378963508	False	Je,mji wa Adıyaman ina idadi ya watu wangapi?
+-9169829356153367091	False	Mji wa Vatikani unapatikana nchi gani?
+8675703823774471622	False	Je, nani alizinduwa umeme?
+6490116527766521291	False	Rais wa kwanza wa Tanzania aliitwa nani?
+-4784469026288798260	False	Nini maana ya Interscope?
+-8837230874532137516	False	Je,Ziwa kubwa zaidi nchini Kenya ni ipi?
+-5990051900980365866	False	Dini ya Ugiriki ya kale ilianza mwaka upi?
+7620657547569407442	False	Je,Martha Wangari Karua alizaliwa mwaka upi?
+7155821932118439383	False	Je,nani wa kwanza kufika kwenye mwezi?
+2379831289835627996	False	Roberto Carlos Da Silva Rocha alikuwa beki wa timu gani?
+-318231746981038625	False	Je,tarakilishi ya kwanza ilizinduliwa nchi gani?
+8974329995642009052	False	Eneo la Asia ni kilomita ngapi?
+7778810791500838364	False	Je,Mji mkuu wa Marekani ni gani?
+2962061283973924321	False	Nani wa kwanza kupanda mlima Kenya?
+2685128116344833506	False	Je, sayari ya dunia ina kipenyo cha kilomita ngapi?
+-8004706270803249692	False	Je, kuna asilimia ngapi ya wakristo nchini Misri?
+-2778804360687311383	False	Eneo la Papua lina ukubwa gani?
+-3838202079282461207	False	Carleton Gajdusek alisoma udaktari chuo gani kikuu?
+-30041432009296406	False	Harusi ya kwanza ilifanyika nchi gani?
+-8891527746417490449	False	Je,ni mbinu gani ya kupanga uzazi yenye haina madhara?
+4338492119595808238	False	Nchi ya Kenya ina kaunti ngapi?
+4058897103739184627	False	Je,nani mwandishi wa kipindi cha Herores?
+-8877637504816282120	False	Kompyuta kubwa iko wapi?
+1596917995192399350	False	Rais wa kwanza wa Ghana alikuwa anaitwa nani?
+1177424141301183992	False	Je,nchi gani kubwa zaidi barani Afrika?
+-2050031965876013575	False	Marekani wanatumia sarafu gani?
+-7436116607983340037	False	Jina ya nyota iliyo karibu na dunia ni nini?
+-5033389986430249472	False	Je,Karl Peters alikuwa na watoto wangapi?
+4111254407009396224	False	Je, ni chembe gani za damu husafirisha oksijeni?
+-1932127488982407677	False	Je,nani mmiliki wa studio za Walt Disney?
+8990404304067945985	False	Je,mashindano ya kombe la dunia ilianza mwaka upi?
+-6537415814207183351	False	Je,twiga inapatikana kwa wingi katika nchi gani Afrika?
+2305901959438964229	False	Maurice Omondi Odumbe alianza kucheza kriketi mwaka gani?
+-7324312446740253171	False	Mamake Zakaria alikuwa anaitwa nani?
+4445284507968566799	False	Kaa ana rangi ngapi?
+4058739068367803920	False	Kanisa la Moravian Tanzania liko na nafasi ngapi za wakazi?
+4531209535782344209	False	Muziki ina manufaa gani kwa binadamu?
+-8250686110917593578	False	Nani alizindua redio duniani?
+-1557718304164973035	False	Je! Kuna tofauti kati ya mamba na burukenge?
+5742911136579147285	False	Misionari wa kwanza kuja nchini Kenya aliitwa nani?
+-1857268731431873000	False	Nini maana ya lahaja?
+7470269459183580695	False	Adolf Hitler alizaliwa mwaka gani?
+2155293982889383453	False	Je,Haruna Taratibu alizaliwa lini?
+8471347499018675739	False	Metamofosi ni nini?
+3056437057663923741	False	Je,albamu All Hail the Queen ina nyimbo ngapi?
+-5868739150678108641	False	Je,mji mkuu wa Ukraine ni upi?
+-2445812883456813533	False	Je,mji mkubwa zaidi Italia ni upi?
+-2880176159118522844	False	Dini ya Uislamu ilianza lini?
+-2593256446908889561	False	Kuna dawa ya Blackheads?
+556167980633499178	False	Je,mji mkuu wa Libya ni upi?
+2540431019182724649	False	Baba wa rais wa china ni nani?
+4090834639744054828	False	Je,mlima kilimanjaro inapatikana katika nchini gani?
+-3752536756724652496	False	Marekani ina majimbo mangapi?
+5771124399102428718	False	Je,Kenya ina idadi ngapi ya wanawake wabunge mwaka 2019?
+-5591170103432800717	False	East African Breweries ina milikiwa na nani?
+3313080341381195314	False	Nchi ya Palestina inatumia sarafu ngapi?
+-4158525916581833162	False	Mnyama mgani wa baharini ni mkubwa zaidi?
+6609543643982423605	False	Je,nani mwanzilishi wa Wikipedia?
+-3517384623603456455	False	Je,leseni ya kuwa na bunduki nchini Kenya huchukuliwa katika shirika gani?
+5055530140267693622	False	International Union for Conservation of Nature iliundwa mwaka gani?
+3361581911452137015	False	Mji mkuu Ufaransa ni upi?
+-7605404643350653378	False	Ghana ilipata uhuru mwaka upi?
+269981938264200767	False	Albamu ya  The Aftermath ilizinduliwa mwaka gani?
+-6299636114650393021	False	Je, kuna kemikali aina ngapi katika somo la kemia?
+3399957826183894597	False	Je,Saidi Ntibazonkiza alizaliwa lini?
+-5650537475375626679	False	Nani alianzisha kanisa la Kilutheri?
+-493189194476382647	False	Lugha rasmi ya nchi ya Indonesia ni ipi?
+-1166870615831263666	False	Rais wa Roma ni nani?
+6483623491092784722	False	Kipima joto kiligunduliwa na nani?
+-5710959911891650980	False	Je,2Pac alizaliwa lini?
+1211529787756258909	False	Misa ni nini?
+6959775547267405402	False	Je,nini ilikuwa maana kuu ya jina Mesopotamia?
+2528397203024475743	False	Je,Sara Evans ana watoto wangapi?
+3819435004905637474	False	Je,nani aligundua nchi ya Kenya?
+1990432879078745705	False	Je,bahari ya Shamu ina ukubwa wa kiasi gani?
+-1626546092086303126	False	Mgonjwa wa kwanza wa ugonjwa wa  Endometriosisi anaitwa nani?
+-5055722117451798932	False	Bahari la Mediteranea iko na ukubwa wa kiasi gani?
+-7470693544768039316	False	Kenya ina majimbo mangapi?
+-3356622081181493643	False	Je, ziwa Nakuru lina ndege gani maarufu?
+1516654331198223990	False	Get Rich or Die Tryin' ilizinduliwa mwaka gani?
+4193125023714580086	False	Mji mkuu Senegal ni upi?
+7199148705060238966	False	Mji wa Dar es Salaam una misikiti mingapi?
+3415284765787297400	False	Je,Burundi ilipata uhuru lini?
+-8336545553203665282	False	Mchezo wa soka una wachezaji wangapi kila upande?
+-3921007816001874306	False	Je, kuna dini ngapi nchini Israeli?
+-3619774115701737856	False	Je,fomula ya hidrojeni ni ipi?
+-3547001951707920766	False	Muundo wa hadubini ya Hooke ulitokea mwaka gani?
+-7546465874994956666	False	NASA ilianzishwa mwaka upi?
+4610263541926393474	False	Je,ni kilomita ngapi kutoka Nakuru hadi Nairobi?
+-1540684857713498489	False	Daktari wa kwanza nchini Kenya anaitwa nani?
+8147844175902029447	False	Greg Grunberg alianza kuigiza mwaka gani?
+-3514566821421562227	False	Je,Diamond Platnumz ana watoto wangapi?
+351016950770841228	False	Nani aliyegundua silaha ya kwanza nchini Amerika?
+-5302644469310876017	False	Papa mbingusi ana ukubwa gani?
+-9118296154898635117	False	Nani aliyegundua silaha ya kwanza nchini Japani?
+-240228833909651823	False	Carlifornia ina idadi ya watu wangapi?
+-3347677314407676269	False	Je, binadamu anaweza kukaa takriban siku ngapi bila kula chakula?
+5034171611791595152	False	Je muziki wa Hip Hop ulianzia wapi?
+8730379051057129106	False	Je,Crystal Palace ilimaliza katika nafasi ya ngapi katika msimu 2017/2018?
+-5404953090383374693	False	Chokoleti ya kwanza ulimwenguni ilitengenezwa na nani?
+6928241657126610583	False	Mume wa  Mary Lynn Rajskub anaitwa nani?
+-7265310801972164956	False	Je, askofu Alinikisa Cheyo alizaliwa mwaka gani?
+1776490239199622820	False	Virusi vya Hepesi vina chanjo?
+-6887421530584598873	False	Mji mkuu Sudan ni gani?
+-700923670555306321	False	Nchi ya Tanzania ina mito ngapi?
+-4108414375100238158	False	Nchi ya Ugiriki inajulikana sana kwa kufanya nini?
+-6752185557239433547	False	Je, pori kubwa ulimwenguni liko wapi?
+-6029072974031919433	False	Ghorofa ndefu zaidi ulimwenguni linaitwaje?
+1576773985178126006	False	Nchi ya Kamerun ilipata uhuru mwaka gani?
+-8535307570140776775	False	Mafuta yote yana asili gani?
+1546809920641750714	False	Don Riddell alisomea chuo kikuu gani?
+-2791359702621743428	False	Nani mmiliki wa kwanza wa gari nchini Kenya?
+3669382200447944382	False	Je, Kenya ina treni ya umeme?
+6610918417690707652	False	Je,Visiwa vya Shelisheli vinapatikana katika bahari gani?
+-5490210865340172599	False	Innocent Cornel Sahani alizaliwa wapi?
+-7935014494497196342	False	Je,nani mwanzilishi wa gazeti la Otago Daily Times?
+8697352180041578182	False	Je,Wilma Rudolph alikuwa na watoto wangapi?
+2911503889559693004	False	Gabon ilipata huru mwaka upi?
+6021891997777798860	False	Je, nchi ya Nigeria ilitawaliwa na nchi gani enzi za mkoloni?
+3811833712561419980	False	Wilaya ya Kalambo ina vijiji vingapi?
+4774183076970567378	False	Je,Vita vya kwanza vya dunia viliisha mwaka gani?
+906778746794694356	False	Steven Zuber alijiunga na klabu ya Hoffenheim mwaka gani?
+509447894370969303	False	Iceland ina ukubwa gani?
+-5622645313892329767	False	Je,Anthony Alexandre Anderson alizaliwa mwaka upi?
+8459580661990979284	False	Otto Von Bismarck alizaliwa wapi?
+-8399610029543315747	False	Je,mto gani mkubwa zaidi duniani?
+-7469130039330248993	False	Je,mbuga ya Serengeti inapatikana katika nchi gani?
+2658864916056659674	False	Je,Cambodia iko katika bara gani?
+1249839221568374494	False	Je,msitu mkubwa zaidi nchini Kenya ni gani?
+2211348035629819615	False	Damu ni nini?
+-1255180324356340000	False	Je, shule ya kwanza kabisa ilianzishwa nchi gani?
+939120861114578653	False	Je,siku ya mazingira duniani huadhimishwa mwezi upi?
+-8299213383756359968	False	Kitabu cha Fioretti kiliandikwa na nani?
+-2482893120865020191	False	Meli ya kwanza ilitengenezwa na nani?
+2389497862997292770	False	Je,mnyama mkubwa baharini ni yupi?
+3051173290873067239	False	Jina estrojeni linatokana na nini?
+-8684601193857804557	False	Hasara za bia ni zipi?
+-4465802724536416524	False	Mji mkuu wa Burundi?
+7335963641113749233	False	Je, ni nchi ngapi katika bara la Afrika ambazo hazikutawaliwa na mkoloni?
+-7051121704123951370	False	Kuna filamu ngapi za James Bond?
+-1842651540249446669	False	Mto mrefu zaidi nchini Kenya ni gani?
+-4127140677489232133	False	Je,dini ya ukristo ilianza mwaka upi?
+5581690194283103993	False	Moyo ni nini?
+3181275159892145918	False	Nchi ya Komori ina zungumza lugha ngapi kuu?
+676034426250606337	False	Je,ugonjwa wa ukimwi ilijulikana lini nchini Afrika?
+159942327756781315	False	Mtandao wa Youtube ulianzishwa na nani?
+-3653485781020989691	False	Je, Mae Carol Jemison ana ndugu wangapi?
+-6475812736150579450	False	Je,mlima Everest ina urefu wa mita ngapi?
+-4808666634152806650	False	Je,kiongozi wa kundi la westlife anaitwa nani?
+4259924821754853124	False	Makoto Hasebe  ana urefu gani?
+-267332521246583034	False	Dini ya kikristo ilianzia wapi?
+3384740092877776648	False	Je,Asamoah Gyan alizaliwa mwaka upi?
+2640214334146385671	False	Kalenda ya wayahudi iliandikwa na nani?
+2941871854042515210	False	Elki ana pembe tawi ngapi?
+-1436639158987614455	False	Je,chuo cha upili cha kwanza kujengwa nchini Kenya ni ipi?
+2111166231932868360	False	Je,Uholanzi ilishiriki katika kombe la dunia 2018?
+7774076872069023499	False	Pilau ilitokea nchi gani?
+-2223367096693778677	False	Mkoa wa Tigray una makabila mangapi?
+-7795101380009969903	False	Elizabeth Blackwell alizaliwa wapi?
+7289024205926287122	False	Rais wa kwanza wa ujerumani alikuwa anaitwa nani?
+-5306194666725845216	False	Japani ina ukubwa gani?
+5135714806468003613	False	Je,Carl Gustav Jung alifahamu lugha ya kiingereza?
+5650908341347690271	False	Je Mto Kongo unapokea maji yake kutoka wapi?
+9015388582293014306	False	Je,Kundi la Jacksons lina wanachama wangapi?
+5109183392877279012	False	Italia inajulikana kwa mambo gani ya kiuchumi sana sana?
+1751222900510258987	False	Ngw'anamalundi alizaliwa wapi?
+4859382249916544813	False	Mwana sayansi wa kwanza wa kike anaitwa nani?
+5787794083640895279	False	Uganda imeshiriki katika kombe la dunia?
+4156218159357646650	False	Latitudo ina maana gani?
+7922419839164565311	False	Je,Zambia ilipata Uhuru mwaka upi?
+8211657784504489791	False	Je, mji mkuu wa Guinea unaitwaje?
+1544903138164885317	False	Je,mwenye kuitwa baba wa falsafa?
+-7334971833893374135	False	Je,Kongo ilipata uhuru mwaka upi?
+2610217442236450632	False	Je,programu ya kompyuta ya kwanza kabisa kutengenezwa ni ipi?
+7850345600457856838	False	Je, ukuta wa china ulijengwa mwaka gani?
+-6963415297686579376	False	Rais wa Urusi ni nani?
+278707776435672911	False	Bendi ya Westlife ina Albamu ngapi?
+-6343636318461626541	False	Je,maharage iko katika kundi gani ya chakula?
+-8401556962204154023	False	Je,kabila la Waluo wako asilimia ngapi ya wakenya wote?
+7921825253610145621	False	Je,chuo kikuu kongwe zaidi nchini Marekani ni ipi?
+5882611706596489047	False	Je,ni chuo kikuu gani kongwe zaidi nchini Nigeria?
+4873480971807024994	False	Nelson Mandela aliaga dunia lini?
+1385000485429491557	False	Je,mji wa Gold Coast ina idadi ya watu wangapi?
+5055162484121835365	False	Je,Donald "Flash" Gordon alianza kuwa rubani mwaka upi?
+-3854509082866964631	False	Je,Elizabeth Cady Stanton alikuwa na watoto wangapi?
+3245136711095842663	False	Je,mji wa Mariupol ina idadi ya watu wangapi?
+979753093542569834	False	Rais wa Tanzania mwaka 1987 anaitwa nani?
+8293248457071183719	False	Mji mkuu wa Afrika kusini ni upi?
+8463076679201199976	False	Je,kundi la Al-Jihad ya Misri ilianzishwa mwaka upi?
+5041016693223110510	False	Je,mfalme wa kwanza Uhispania aliitwa nani?
+-5025815730813761677	False	Jina riwaya linatokana na nini?
+-1478271977226569872	False	Je,Mlima kilimanjaro ina urefu wa kilomita ngapi?
+-8249096853219338380	False	Je,chama gani kongwe zaidi cha kisiasa nchini Tanzania?
+2994216213210470263	False	Usafiri wa anga la nje ulianza lini?
+7153114836011767672	False	Usafiri wa anga-nje ilianza lini?
+4131426919055755134	False	Je, blogu ni nini?
+1680285210899879813	False	Mahindi ni mmea wa familia gani?
+-3783441058512160889	False	Je,nani wa kwanza kupanda mlima Kenya?
+-6625394239463540856	False	Je, bangi ni dawa?
+9001224683170613125	False	Kenya ina hospitali ngapi za kansa?
+6939557429800191877	False	Je aliyekuwa rais wa Kenya Arap Moi alikuwa mwalimu?
+-7582059701267622005	False	Je, ni watu gani wanao ishi katika ncha ya kaskazini?
+-7508432572260096114	False	Je, Bahari kubwa inaitwaje?
+-1909238668168480885	False	Je,mende iko katika kundi gani ya wadudu?
+1426877501555406736	False	Je,rais Paul Kagame alisomea somo gani katika chuo kikuu?
+-8800237145813420137	False	Jamhuri ya Kituruki iko na ukubwa wa kiasi gani kijiographia?
+-7374142348414855269	False	Mji mkuu Ethiopia ni upi?
+6725164765894236055	False	Watoto wa Rais wa Meksiko ni nani?
+-2176560947357468768	False	Rais wa kwanza wa Malawi ni nani?
+1296294148892493733	False	Mji mkubwa kabisa Japani ni upi?
+-6936251786946762836	False	Pesa kuu duniani ni gani?
+7394875483930216358	False	Mji mkuu wa Ethiopia unaitwaje?
+-7845678097031923796	False	Je,mto mkubwa kabisa duniani ni upi?
+-7530906436119468113	False	Jackie Agyemang ana watoto wangapi?
+3395924197354510250	False	Je,Marekani ina mikoa ngapi kwa jumla?
+-3272786062025504848	False	Je,mlima mrefu zaidi duniani ina kilomita ngapi?
+-7603413296688412750	False	Rais wa  Iraq ni nani?
+588842885414647731	False	Ugiriki ya kale ina miungu mingapi?
+4130441139179718584	False	Je,gazeti la kwanza kuzinduliwa nchini Kenya ni ipi?
+-1867834488999336004	False	Je, Wikipedia ilianzishwa mwaka gani?
+-2440883907575117890	False	Je,rais wa kwanza wa Congo aliitwa nani?
+-8223373413005498432	False	Je Tanzania ina idadi ya watu wangapi?
+-7042564635929839681	False	Je,mji mkuu wa Guinea ni upi?
+-6552374653904779326	False	Kifaa cha kukwea nazi kinaitwaje?
+-6197468920374036545	False	Je,Nyandu Tozzy alizaliwa mwaka upi?
+2626328650258519997	False	Robin Tunney alizaliwa mwaka gani?
+-4841776072694323258	False	Je,michezo ya olimpiki huandaliwa baada kila miaka ngapi?
+7708573593845577664	False	Je,ni kisiwa gani kikubwa zaidi katika Bahari ya Mediteranea?
+8816696501042476993	False	Je,Saidi Ntibazonkiza alijiunga na klabu ya KS Cracovia mwaka upi?
+8189851557152331726	False	Je,bendera ya Somalia ina rangi ngapi?
+4927805561028839378	False	Je, ni nani aliyekuwa wa kwanza kukwea mlima wa Kilimanjaro?
+-2593419003999348778	False	Raila Amolo Odinga alikuwa waziri mkuu mwaka upi?
+-7234154973154470135	False	Mto upi mkubwa zaidi duniani?
+262797342445447135	False	Shirika kwa Ukoloni wa Kijerumani lilianzishwa mwaka upi?
+4163689008158922718	False	Mama wa rais wa Panama ni nani?
+-2281621745381386263	False	Mkuu wa wilaya wa Hatay mwaka 2018 anaitwa nani?
+-7161267176381712400	False	Benjamin wa Mambo ana albamu ngapi?
+7698043143111649259	False	Je, Senene ana urefu kiasi gani?
+7350432100385322994	False	Je,Francis Coquelin alizaliwa mwaka upi?
+7922893605368121337	False	Thr33 Ringz ina nyimbo ngapi?
+-4139905989486041088	False	Nchi ya Ufilipino ina visiwa vingapi?
+3015795724648806403	False	Je,mlima mkubwa zaidi nchini Tanzania ni ipi?
+-8400068996197025781	False	Je,panya iko katika spishi gani ya wanyama?
+-1043356703728007157	False	Muziki wa hip hop ulianza mwaka upi?
+-370726826866845680	False	Je,jangwa kubwa zaidi bara Afrika ni gani?
+3651758334457976848	False	Donald Gordon alizaliwa wapi?
+-4891464829103134698	False	Roma imekuwa na mungu wangapi?
+8752213342092879890	False	Kipima joto cha kwanza kilizinduliwa mwaka gani?
+-7854238232995936232	False	Rais wa Marekani mwaka 1885 anaitwa nani?
+5521550780046673938	False	Albamu ya Better Dayz ilitolewa mwaka upi?
+-6642426109151872998	False	Nanyuki ina idadi ngapi ya watu?
+-2365610472346388449	False	Je, Ujerumani ilishiriki katika kombe la dunia mwaka wa 2018?
+-5309578661125556192	False	Jina fikira linatokana na nini?
+5002543401046755360	False	Je,Mtume Muhammad alizikwa wapi?
+-8001110470506788819	False	Tafsiri ya kwanza ilifanyika nchi gani?
+4659199174341232681	False	Msanii wa kwanza ncini Ujerumani ni nani?
+-2911383246018340818	False	Ni bahari gani kubwa duniani?
+7599421626799433771	False	Je,mjii mkuu wa Tanzania ni upi?
+4242621817723725874	False	Rais wa kwanza wa Malawi aliitwa nani?
+-2143714962348943305	False	Je,Petro alimkana yesu mara ngapi?
+4822925743785691195	False	Je,Raila Odinga alikuwa waziri mkuu mwaka upi?
+-4076939324307990462	False	Je,bahari ya Atlantiki ina ukubwa kiasi gani?
+6320145051036219459	False	Je,Simba iko katika spishi gani ya wanyama?
+9028941201887594564	False	Ni nani anajulikana kama baba wa fizikia duniani?
+-4948852051748046772	False	Mwana sayansi wa kwanza anaitwa nani?
+-3433839731577481140	False	Azad Azadpour alizaliwa wapi?
+841415307560892495	False	Chupong Changprung alizaliwa mwaka upi?
+-890004272151574447	False	Je, ndovu anabeba uja uzito kwa miezi mingapi?
+7722101611654187086	False	Je,nani alizindua kifaa cha hadubini?
+1661658631349352529	False	Ni nchi ngapi zilizo na sherehe ya Siku ya Π?
+9014902004349691985	False	Je,msimu wa pili wa kipindi ya Heroes ina sehemu ngapi?
+1052866477261936727	False	Je,mlima mkubwa zaidi nchini Uganda ni ipi?
+8955629102400243797	False	Mlima Kilimanjaro una urefu wa mita ngapi?
+-6183315230188992422	False	Tupac Shakur alifariki akiwa na miaka mingapi?
+1239665952953317465	False	Je,msitu mgani kubwa zaidi bara Afrika?
+-21847047740467111	False	mto mrefu nchini Zambia unaitwaje?
+-1611784619982669731	False	Rais wa kwanza wa Ufaransa aliitwa nani?
+6660104234932320349	False	Je,Meksiko ilipata uhuru mwaka upi?
+-7089962174264223645	False	Makao ya kampuni ya Kijerumani kwa Afrika ya Mashariki ilikuwa katika nchi gani Afrika Mashariki?a
+-935816853153044383	False	Je,farasi alianza kufugwa nyumbani mwaka upi?
+2857712694316222564	False	Je,nani mmiliki wa Walt Disney?
+5958905211503962212	False	Je,nani rais wa kwanza wa Ucheki?
+8697098982356359270	False	Mongolia ina idadi ngapi ya watu?
+-6149541809080489869	False	Mama yake Tupac Shakur anaitwa nani?
+-632364501217400716	False	Mji mkuu wa Ethiopia ni upi?
+949717595100129398	False	Je,Marekani ina idadi ngapi ya watu?
+-3160813721417041794	False	Eneo la Texas lina ukubwa gani?
+-8660026485402343293	False	Je, mji mkuu wa Uturuki unaitwaje?
+4118201061768603777	False	Akwilina Akwilini Bafta alizaliwa mwaka gani?
+-3577796000412665725	False	Je,mji mkuu wa dubai ni upi?
+4065960880311187585	False	Je,mpira wa vikapu ulianzishwa mwaka upi?
+-3226727171782768505	False	Je, Ni sayari ipi iliyo karibu na jua?
+-2934311639020857206	False	Je, Waislamu wanasherehekea mwaka mpya?
+4128828080333453450	False	Je, kuna vitabu vingapi vya mashairi ya William Shakespeare?
+3186300764488837262	False	Je, kuna aina ngapi za oksijeni?
+-6708134491660711790	False	Je,bara kubwa zaidi duniani ni ipi?
+4413239827349338256	False	Je, kisiwa cha Zanzibar kina idadi ngapi ya watu?
+-7965135172830115679	False	Kitabu cha kwanza katika lugha ya Kiswahili kinaitwaje?
+3741050884315031710	False	Urefu wa Mto Rouge ni kiasi gani?
+8618351914326038682	False	Nchi ya Thailand iko na wakazi wangapi?
+-1426611591811012447	False	Binadamu aliyeishi miaka mingi ulimwenguni ni nani?
+-4138527087639218015	False	Je, kuna aina ngapi ya mimea?
+4218721225109911712	False	Je,jangwa kubwa zaidi nchini Kenya ni ipi?
+-6192751482650093402	False	Je,paka anaweza ishi kwa muda upi?
+-5641582750491473752	False	Je,nani mwanzilishi wa kituo cha televisheni cha Fox?
+-5235413815284418387	False	Ndege ya kwanza inaitwaje?
+6488546558430324906	False	Je, Mae Carol Jemison alizaliwa mwaka upi?
+-1154404290278766416	False	Mchezo wa Ng'ombe ulianzia nchi gani?
+-4215329457114638159	False	Salamanda wana miguu mingapi?
+-7587158300944639818	False	Je,aliye kuwa rais wa Tanzania Julius Nyerere aliaga dunia mwaka upi?
+-4051370500456044363	False	Je,rais wa Syria mwaka 2019 ni nani?
+8865121970190710961	False	Je,mnyama mkubwa zaidi wa baharini ni yupi?
+-1610037711776425799	False	Je mwanzilishi wa kampuni ya google ana miaka mingapi?
+-1998971767831603013	False	Je,kanisa la katoliki la kwanza kujengwa nchini Kenya ni gani?
+5203525671463778493	False	Je,Bill Gates alizaliwa lini?
+8888017855955744959	False	Je,ugonjwa wa Ebola inasababishwa na kirusi gani?
+9177975392602601665	False	Sayansi ni nini?
+-1556104313513453369	False	Je,gavana wa kaunti ya Marakwet ina idadi ya watu wangapi?
+939789341293099212	False	Je,jina ya kisayansi ya mmea wa Moringa ni ipi?
+-7196432697972217645	False	Mama Teresa alizaliwa wapi?
+4484020695347427535	False	Nnai alizindua chombo cha kupima joto mwilini?
+8527626808691529935	False	Je,Kenya ina idadi ngapi ya mbuga za wanyama?
+-3506954674255656748	False	Ziwa kubwa zaidi Kenya ni gani?
+7302036813709514964	False	Vita ya kwanza ya Afghan ilikuwa mwaka gani?
+5699484448237005016	False	Nchi ya Tanzania ina mikoa mingapi?
+6948921264748030169	False	Je,uwanja wa ndege mkubwa zaidi nchini Marekani ni ipi?
+5608599486203332827	False	Mji mkubwa Kongo ni upi?
+-2651109895220705059	False	Je,Nelson Mandela alizaliwa lini?
+-2128512212449675044	False	Antibiotiki iligunduliwa mwaka gani?
+-236445719486490403	False	Mark Elliot Zuckerberg alizaliwa mwaka upi?
+2917659213502109918	False	Je,Madagaska ina mito ngapi kwa jumla?
+-2531897129023788828	False	Je,mwanamziki wa Kenya Khaligraph Jones alianza mziki mwaka upi?
+-9210757770307106586	False	Je,jiji ya Dar es Salaam ina idadi ya watu wangapi?
+3606991244225980642	False	Ni bahari gani kubwa zaidi duniani?
+2152129830020798695	False	Kuna aina ngapi ya pombe nchini Kenya?
+-3334796210328876823	False	Je,kombe la dunia mwaka 2018 iliandaliwa wapi?
+5037394598393174245	False	Afrika Kusini ina idadi ngapi ya watu?
+2798191884635027687	False	Je,Togo ina idadi ya watu wangapi?
+3837467078111934697	False	Kwa nini bahari hili linaitwa bahari nyeusi?
+1493560934653888753	False	Elimu ya Siasa ilianzia wapi?
+-1669705594103797517	False	Je,nani mwandishi wa kipindi cha 24?
+-7486959020980340488	False	Prussia ilikuwa na nembo gani?
+1179989019185084662	False	Urafiki Jazz Band ime rekodi nyimbo ngapi?
+2201993457440217336	False	Nchi ya Burundi ilipata Uhuru mwaka gani?
+3603143982081366265	False	Mji mkuu mkubwa barani Afrika ni upi?
+4427442876572211452	False	Mji mkuu wa Nigeria ni?
+1378195381691578621	False	Rais Wa Nchi ya Israel Mwaka wa 1970 anaitwa nani?
+-2334473460467644160	False	Je,rais wa kwanza wa Ghana alikuwa nani?
+-8566593775385511678	False	Dini ya Kiislamu ina takriban watu wangapi?
+3070550862051911940	False	Ukulima wa kahawa ulianza lini nchini Kenya?
+-7584333682742302456	False	Meli ya abiria ya kwanza ilitengenezwa na kampuni gani?
+7256026198557436166	False	Je, mke wa Miroslav Klose anaitwa nani?
+-8442084830970222322	False	Je,rais wa kwanza wa Jamhuri ya Kidemokrasia ya Kongo alikuwa nani?
+-2324086482975094516	False	Klabu Paris Saint German [PSG] ilizinduliwa lini?
+-8425172610654160625	False	Klabu ya Ubelgiji Standard Liege ilianzishwa mwaka gani?
+-8515198846823007983	False	Je,stesheni ya CNN ilianza mwaka upi?
+-8282319750180591340	False	Eneo la Morogoro lina ukubwa gani?
+2824199705080346898	False	Je Beyonce alianza uigizaji mwaka upi?
+2649861667144534293	False	Je,taji la kwanza Anthony Joshua kushinda ilikuwa ipi?
+-8474502472507451111	False	Ziwa Rukwa lina ukubwa gani?
+-4477624112504932063	False	Rais wa Ujerumani mwaka 2005 anaitwa nani?
+-667706401937848031	False	Je,George Weah ni Rais wa nchi gani?
+-2146158494143440607	False	Nani mwanzilishi wa Shirika kwa Ukoloni wa Kijerumani?
+-8129929041719518939	False	Azad Azadpour alizaliwa mwaka upi?
+-3481705678877869787	False	Kangaruu anabeba mimba kwa muda gani?
+-7100940649304856280	False	Neno nguli lina maana gani?
+3936511606941505832	False	Satelaiti iliwekwa angani kwa njia ipi?
+-5124239399827203797	False	Je,Kamerun ilishiriki katika kombe la dunia 2018?
+3058392206338910507	False	Je,simba huzaa akiwa na umri gani?
+8216132447498963245	False	Rais wa Kenya mwaka 1975 anaitwa nani?
+5027315565809600815	False	Hifadhi ya Taifa ya Ziwa Nakuru  ilianzishwa lini?
+-7813468854849722059	False	Je, jina Afrika lilitoka wapi?
+-6776548403534550731	False	Kikurdi ni lugha ya wapi?
+-8761595173011887816	False	Kiongozi wa Biafra mwaka 1967 anaitwa nani?
+1469244959855577399	False	Klabu ya AS Vita inamilikiwa na nani?
+-361174204895475394	False	Mji wa Nairobi una kampuni ngapi?
+914444947554638144	False	Je,rais wa kwanza wa Tanzania aliitwa nani?
+-8299071486827828924	False	Je,mji mkuu wa Australia ni upi?
+-76130730794006206	False	Je,Dubai ina idadi ya watu wangapi?
+4494468381225097536	False	Adolf Hitler alizaliwa wapi?
+-376939192398689980	False	Wikipedia ya Kijapani ina makala ngapi?
+-2927972358110455484	False	Je,ni kilomita ngapi kutoka Dar es Salaam hadi Tanga?
+4581586709077477701	False	Je, Kampuni ya Rockport ilianzishwa na nani?
+8422022095379401027	False	Je,kampuni ya data kubwa zaidi nchini Kenya ni gani?
+2238047160069265732	False	Je,Samir Nasri alizaliwa lini?
+3633096070812092749	False	Mji mkuu wa Norway unaitwaje?
+2339338764527946066	False	Tanzania ina muziki aina ngapi?
+5486064012724934992	False	Mnyama yupi hupumua kutumia ngozi yake?
+-5159246641772390058	False	Je,nani mwanzilishi wa barua pepe?
+-4716263671844681384	False	Nani raise wa Ujerumani?
+-1575294878427883182	False	Mji mkuu wa Jamhuri ya Kituruki ya Kupro unaitwaje?
+867394418851559769	False	Ikulu ya Kenya ilizinduliwa lini?
+-6491033718099830436	False	Je, ubongo wa sungura una ukubwa gani?
+4507676276308416857	False	T-Pain alizaliwa wapi?
+4641979104217901404	False	Kisiwa cha Komori kina bandari ngapi?
+5815001811185785180	False	Kuna takriban aina ngapi ya samaki?
+4500361183646165343	False	Je,mke wa makamu wa rais nchini Kenya anaitwa nani?
+262860089590126942	False	Ni nani wa kwanza kukwea mlima Kilimanjaro?
+-460476139431528098	False	Je,idadi ya watu wa mji wa New Orleans ni ngapi?
+8040577435051022688	False	Je Kangaroo huishi kwa miaka ngapi?
+5098978882474367330	False	Je,Lagos ina idadi ya watu wangapi?
+2127768190755113317	False	Bahari kuu Asia ni gani?
+-1588952586598844058	False	Je,The Weeknd alianza muziki mwaka upi?
+8680708974576056682	False	Je,Mji mkuu wa Namibia ni upi?
+-5583287837695284880	False	Bill Gates alisoma chuo kikuu gani?
+-7179166028155627151	False	Nani mhusika mkuu wa kipindi ya 24?
+8382308824361400692	False	Je, Agano jipya lina vitabu vingapi?
+153979577314937208	False	Je,Mji mkuu wa Kenya ni upi?
+-8863893362337302146	False	Mzee Jomo Kenyatta  alizaliwa mwaka gani?
+3438822391982287228	False	Je,chuo kikuu kongwe zaidi nchini Kenya ni gani?
+-8976903323060233856	False	Je,mji wa Nairobi ina idadi ywa watu wangapi?
+2317110837886314880	False	Bahari ya Pasifiki ina visiwa vingapi?
+8420954620793092478	False	Albamu ya kwanza ya Diamond Platnumz inaitwaje?
+4981042350261475719	False	Je,jina la Avocado la kisayansi ni ipi?
+-8753156543028102769	False	Nani rais wa kwanza Ethiopia?
+-1616788718152394355	False	Je, Vatikani ndio makao makuu ya papa wa katoliki?
+-3399056132042380913	False	Je, Vatikano ina ukubwa gani?
+879050189557504399	False	Aina ya Sayari ni ngapi?
+-5745142564134504045	False	Je,Google ilianza mwaka gani?
+1777642745536584082	False	Je, kuna magonjwa mangapi ambayo hayana tiba ulimwenguni?
+8423537656639916435	False	Bahari ya Azov ina maji ya aina gani?
+1824409255991617945	False	Mbegu ya maharagwe iko na asili gani?
+-1329428158106302050	False	Je,Kenya ilipata uhuru mwaka upi?
+-4482360087204226656	False	Je, Saratani ina tiba?
+-8427109329524512349	False	NARC ni nini?
+-6911331339771143775	False	Simoni Petro alikuwa mfuasi wangapi wa Yesu?
+-1954111044571235935	False	Je,hadithi ya Pinokyo ilitungwa lini?
+713871257186228640	False	Nani alizindua shirika la Transparency International?
+3609798815689271716	False	Je,rais wa kwanza wa Norwei alikuwa nani?
+-8319904642270426703	False	Bahari kubwa zaidi duniani ni ipi?
+6229732698737074	False	Mama ya Leonardo Da Vinci ni nani?
+4505369974258473394	False	Kenya ina jamii ya watu ngapi?
+-300661789089576521	False	Je,mji mkuu wa Ufaransa ni upi?
+-6451344114196878913	False	Je,msichana wa miaka tisa anaweza pata uja uzito?
+-2506669280923309630	False	Je,ugonjwa wa saratani ilijulikana lini kwa mara ya kwanza duniani?
+5688377270259050944	False	Je,nchi gani kubwa zaidi bara Afrika?
+-397673824058660409	False	Je, siagi inatokana na maziwa pekee?
+-4778229155763303991	False	Je,kenya ilipata uhuru mwaka upi?
+-3383430009315423797	False	Baba wa rais wa Marekani ni nani?
+-3149354492301370933	False	Papa wa tatu wa kanisa katoliki anaitwa nani?
+2027917112517888460	False	Makka inapatikana nchi gani?
+1349389707862501836	False	Taifa la Rwanda lilipata uhuru mwaka gani?
+5916380558364318159	False	Mhusika mkuu wa filamu ya 24 anaitwaje?
+-6814700246740534828	False	Je,mto mkubwa zaidi Kongo ni upi?
+-7856719734734788136	False	Maktoum bin Rashid Al Maktoum alikuwa makamu wa rais wa falme ipi?
+-1778607374179538475	False	Mji mkubwa nchini Kenya ni?
+-3364766047761372714	False	Je,televisheni ya NBC inapatikana katika nchi gani?
+1359279603362793944	False	Je,Suleiman Mambo alianza uigizaji mwaka upi?
+922479474281376219	False	Edith Chewangel Masai  amezaliwa wapi?
+5507731312701204957	False	Nchi ya Brazil ina timu ngapi za soka?
+-4306136171117528608	False	Ngugi wa Thiong'o alizaliwa wapi?
+-4291992143228220951	False	Je,nani alikuwa rais wa kwanza wa Morocco?
+-554290323179185686	False	Je, mji mkubwa Nigeria ni upi?
+826379521530333678	False	Je,ndege yupi anaweza ona mbali zaidi?
+-4568287681347360272	False	Je, Jibuti ilipata uhuru mwaka upi?
+6296864923531643374	False	Wikipedia ilanza mwaka gani?
+-9172415106566968846	False	Je,ndovu ndio mnyama mkubwa zaidi porini?
+4824449817419663856	False	Kofi Annan alijiunga na umoja wa mataifa akiwa na miaka mingapi?
+4075659251232999919	False	Je,nani rais wa kwanza wa Zambia?
+-471187891922785809	False	Shira ina ukubwa gani?
+-6496168795936089614	False	East African Breweries ilianzishwa mwaka gani?
+-6748093094083921414	False	Ndege ya kwanza ilitengenezwa mwaka upi?
+6624510686069185015	False	Je,Kenya ina majimbo ngapi ngapi kwa jumla?
+5550846406986885624	False	Je, Ruwaza ya Kenya 2030 ilizinduliwa mwaka upi?
+-944407096024724995	False	Panya-mito ana ukubwa gani?
+-321423202033137152	False	Eneo la Uajemi lina ukubwa gani?
+-6615742875274475005	False	Je, Jomo Kenyatta alikuwa na ndugu wangapi?
+474183990767749634	False	Mkoa wa Manyara una Idadi ngapi ya watu?
+-6199487497850897920	False	Vita katika nchi ya Kongo vilianza mwaka gani?
+5990468698531580418	False	Je,Afrika mashariki ina nchi ngapi kwa jumla?
+1758439074290108935	False	Je,Ngombe hubeba mimba kwa miezi ngapi?
+-1069524537926690293	False	Sikio la nafaka linaitwaje?
+-2919023818530883058	False	Je, kuna aina ngapi za feleji?
+5144759706997021196	False	Rais wa kwanza wa Congo alikuwa nani?
+2248036541693757967	False	Nigeria ilipata uhuru mwaka gani?
+3983258814099364364	False	Je, Kulungu aktiki ana pembe ngapi?
+-4033476693547955690	False	Nani anajulikana kama "Napoleon of india"?
+7286963985827957266	False	Je ziwa la Turkana inapatikana kwa kaunti gani Kenya?
+-992477379629303275	False	Ni nani mwazilishi wa Wikipedia?
+-239863692204656099	False	Bahari Atlantiki ina ukubwa gani?
+5890172312125200924	False	Je ni nyota gani yenye mwangaza zaidi?
+1185180348359969313	False	Je,kufikia mwaka 2018 Kenya ina makundi ngapi ya wanajeshi?
+-8844115056696669659	False	Je ,nani alikuwa rais wa Tanzania mwaka 1958?
+-4348757285725672926	False	Australia ina idadi ngapi ya watu?
+-753202930738890204	False	Bara ulaya una nchi ngapi kwa jumla?
+7260902055516936739	False	Kuna aina ngapi za Mata?
+2275819083708168742	False	Ecuadorian ni nchi ya bara lipi?
+3865821048061757993	False	Je,chanjo ya polio hupewa watoto wa umri gani?
+8181713341060573735	False	Dikteta wa kwanza duniani alikuwa nani?
+-4938180117475374547	False	Jangwa la Sahara lina ukubwa gani?
+-6670970909935769032	False	Je,Flamingo inapatikana katika ziwa gani nchini Kenya?
+6599224830618675764	False	Je,gavana wa kaunti ya Meru mwaka 2019 ni nani?
+624049511169235514	False	Nani alikuwa kiongozi wa Iraq wakati wa vita kati yao na Uajemi?
+-6782614288630842819	False	Moyo wa mwanadamu una ukubwa gani?
+-9191981125315409341	False	Je,nani aligundua ugonjwa wa Polio?
+4279162711313791553	False	Je mwanamziki Chrisbrown alianza kuimba mwaka upi?
+4258631141254462021	False	Je,wimbo wa kwanza wa  Jua Cali ni upi?
+-6147775339319514551	False	Je,mtoto wa umri wa miaka mbili anaweza pata ugonjwa wa kisukari?
+-2476857463462573494	False	Je,Robert Baden-Powell alizaliwa mwaka upi?
+-2839446917850690995	False	Ukraine iko na idadi ngapi ya watu?
+-3382534677390050738	False	Nyota ya kwanza kugunduliwa inaitwaje?
+5370259455015344717	False	Je,nani alikuwa seneta wa kwanza wa kaunti ya Samburu?
+-6051867877055669667	False	Je,makao makuu ya Kampuni ya Safaricom inapatikana kaunti gani nchini Kenya?
+-5565835758032614817	False	Nani alitengeneza redio la kwanza?
+6715917395711662683	False	Wilaya ya Mbozi ina ziwa?
+2883279372900084320	False	Darubini ilivumbuliwa na nani?
+6484629920537782880	False	Je,fomula ya elementi ya Iodini ni ipi?
+3985373316186049122	False	Je,ziwa kubwa zaidi Kenya ni gani?
+2113991917813918311	False	Je,Kampuni ya Kenya Breweries Limited ilianza mwaka upi?
+-8421330235980744084	False	Je, Twiga hula mimea pekee?
+1910027935185885802	False	Bara Arabu ina ukubwa gani?
+-1285757752723563925	False	Je,Zinedine Yazid Zidane ana watoto wangapi?
+-866793210650154388	False	Siku ya Bwana imeandikwa katika vitabu vingapi?
+-6345944898662798735	False	Kenya ilipata Uhuru mwaka upi?
+-1896348563342030223	False	Kenya ina vyama ngapi vya kisiasa?
+6469155619561372272	False	Daraja kubwa zaidi Kenya ni gani?
+5180003743764515444	False	Je,Fransisko wa Asizi aliteuliwa kuwa mtawala lini?
+-1384965088405407114	False	Je,ni nchi ngapi Afrika inazungumza lugha ya Kiswahili?
+-5445576653829817735	False	Bakteria inayosababisha kikohozi kikuu inaitwa aje?
+-1338573831522260359	False	Je,mlima Kilimanjaro ina urefu wa kiasi gani?
+-4658814453915432322	False	Je, ni mji gani Nigeria yenye watu wengi zaidi?
+-3466648740568200577	False	Je,jina Don Cartagena ina maana gani?
+2734149643874216573	False	Je,Simone Gooden alizaliwa lini?
+808341123027450496	False	Je,mara ya kwanza Brazil kushinda kombe la dunia ilikuwa mwaka upi?
+8281073055431649919	False	Mji mkuu Algeria ni upi?
+6886893396763437697	False	Mohammed Salah alizaliwa mwaka upi?
+687280978384751236	False	Nyoka huishi miaka ngapi?
+4088672889063795331	False	Jina wa mji wa Ifakara linatokana na nini?
+-6776010025658418553	False	Nchi gani kubwa katika bara la Afrika?
+4778067475289746056	False	Je,Elizabeth Blackwell ana watoto?
+-2263004720770704757	False	Amerika ilipata uhuru mwaka upi?
+853474403438393999	False	Vyuo vingapi nchini Kenya vinatoa mafunzo ya elimu ya siasa?
+-3816919288921634159	False	Je, Kenya ina idadi ya mbuga ngapi ya wanyama?
+6018294842109139597	False	Je, ziwa kubwa katika nchi ya Burundi inaitwaje?
+-9117378156133299563	False	Ramani ya nyota ilizinduliwa na nani?
+4187305095367113359	False	Je,mamake rais Uhuru Kenyatta anaitwa nani?
+2695179461773314709	False	Africa ina nchi ngapi?
+3957321248753928854	False	Je,mlima mkubwa Uganda ni upi?
+8897095141128108693	False	Nani aliunda Puto ya kwanza duniani?
+2411978427732204189	False	Je,njia ya usafiri wa kwanza kutumika Kenya ilikuwa gani?
+-7382793739880371550	False	Je, dunia ina miaka mingapi?
+-6149145273426416990	False	Galaksi ya njia nyeupe iko na ukubwa wa kiasi gani?
+633322745944885926	False	Puto ya kwanza ilizinduliwa na nani?
+2861360939208628902	False	Je, Nigeria ina idadi ngapi ya watu?
+4027771557075151531	False	Je, kuna dini ngapi nchini Algeria?
+-2008398141382010195	False	Je,Sudan Ilipata Uhuru lini?
+-4660451022173754704	False	Je,Dk. Angela Dorothea Merkel ana watoto wangapi?
+-4607732189469898065	False	Je,Shirika la reli na bandari za Afrika ya Mashariki ilianza lini?
+7066907705952684716	False	Msitu wa Amazon una ukubwa gani?
+4860913782743198383	False	Mji mkuu wa Algeria ni upi?
+5036028247675415216	False	Fat Joe alizaliwa mwaka upi?
+3898473471784929969	False	Nani alipata kuwa waziri mkuu wa Ethiopia tangu baada ya kifo cha  Meles Zenawi?
+-8844969702069822800	False	Je,mji mkuu nchini Kenya ni upi?
+8946693640240818867	False	Misuli ni nini?
+3390567659710589622	False	Je,mlima mkubwa zaidi bara Asia ni lipi?
+-8566123520402236737	False	Je, Uganda ina klabu ngapi ya soka inayo cheza kwa ligi kuu ya soka?
+-7250658542027580733	False	Je Kuku anaishi kwa miaka mingapi?
+5861462003949787844	False	Mji mkubwa Afrika kusini ni gani?
+-1223760184870389050	False	Je,msichana anaeza shika mimba wakati wa hedhi?
+7150684370159286980	False	Sayari iliyo karibu na jua ni ipi?
+-2213288737445795124	False	Je,mjii mkuu wa Meksiko ni upi?
+2710270624436845259	False	Mnyama mwenye pembe ndefu zaidi anaitwaje?
+-1403899981299672364	False	Je,mji mkuu wa Gabon ni ipi?
+7064213794770258643	False	Mto refu zaidi Kenya ni gani?
+-487100825973818665	False	Je,kuna mito ngapi nchini Syria?
+-5400766899013403940	False	Nini maana ya Nyanda?
+-2283125231348135204	False	Je, hadi kifo chake, Tupac Shakur alikuwa na albamu ngapi za muziki?
+-1495848586819261731	False	Je jamii ya Kikuyu inapatikana katika sehemu ipi ya Kenya?
+-3430125725468493091	False	Je,janga kubwa zaidi duniani ni ipi?
+-3195895757471917341	False	Rais wa kwanza mwenye umri mdogo nchini Ufaransa anaitwa nani?
+-5792973727110665497	False	Mchezaji aliye na rekodi ya kufunga mabao mengi kwa klabu ya Stoke City anaitwa aje?
+-767201893017330970	False	Je, elimu ya jamii ni nini?
+2746863191260224230	False	Mnyama mkubwa zaidi anaitwaje?
+-6097549250924184853	False	Mji mkuu wa Ukraine ni upi?
+-8994216183944291603	False	Je,mji mkuu wa Dubai ni upi?
+-8364930436657841426	False	Kitabu cha kwanza cha Biblia ya Kiyahudi kiliandikwa na nani?
+-4247780671187461394	False	Je,msitu wa Amazonia ina ukubwa wa kiasi gani?
+5934348663189347053	False	Je,nani mwandishi wa filamu ya If Loving you is wrong?
+3552285438444407537	False	Maji yana uzito gani?
+-4090050602319668485	False	Je, kiwanda kikubwa cha saa ulimwenguni kinapatikana wapi?
+-8130824504191288578	False	Rais wa kwanza wa Sudan ni nani?
+-395820275944412420	False	Je,Fiji ina idadi ya watu wangapi?
+5426020915501931256	False	Mke wa rais wa kwanza wa Kenya anaitwa nani?
+-7158810517072827644	False	Kisiwa cha Atolli kiligunduliwa lini?
+-2275591978449655039	False	Je,Sherone Simpson alizaliwa lini?
+3211694063627549443	False	Marekani imekuwa na rais wangapi?
+-6373807191955989749	False	Mfalme wa kwanza wa falme ya Baganda anaitwa nani?
+6872644006852782858	False	Pwani kubwa inapatikana nchi gani?
+8007949134808763146	False	Je,uti wa mgongo kwa kilatini inaitwaje?
+-5929371272994129138	False	Ugonjwa wa saratani uligunduliwa mwaka upi?
+-4278536446162248945	False	Ni nani mmiliki wa British Broadcasting Corporation?
+2365068464134884116	False	Je, mke wa rais wa pili wa Kenya anaitwa nani?
+5761332776950930195	False	Je kuna watu huishi jagwani?
+-7982869590949799142	False	Malkia Kleopatra aliaga dunia mwaka upi?
+7140587147285986069	False	Je,bahari kubwa zaidi duniani ni gani?
+-7964530798253499621	False	Je,mji mkuu wa Marekani ni upi?
+6967717644882529053	False	Je,Fidel Castro alizikwa nchi gani?
+-8584740793352901846	False	Je,mji mkuu Australia ni gani?
+-8399273367655765203	False	Nchi ya Msumbiji imepakana na nchi ngapi?
+-5452306151269913811	False	Je,maharage iko katika familia gani ya mimea?
+-2127858138987087061	False	Je rais wa kwanza mwanamke alitoka nchi ipi?
+-6050219601786836172	False	Je, mfumo wa mawasiliano anga ulianza lini?
+-3805559689869358275	False	Ziwa Tanganyika ina urefu kiasi gani?
+6325948120521059133	False	Je,Kanda Bongo man ni mwanamziki kutoka nchi gani?
+-9173903012790686909	False	Donald Gordon alizaliwa mwaka upi?
+8756908199947995969	False	Je,Nigeria hufanya sensa kila baada ya miaka ngapi?
+5639150796139404099	False	Kampuni ya International ISBN Agency ilianzishwa mwaka upi?
+3078817632707386186	False	Filamu ya kwanza iliandikwa na nani?
+2410757277925161805	False	Je,ugonjwa wa saratani iligunduliwa na nani?
+484380202827168595	False	Je,ni nchi gani iliandaa michezo ya olimpiki ya kwanza kabisa?
+-6141327757844288682	False	Je, mji mkuu wa Australia ni upi?
+7464016231495138132	False	Je, mke wa rais wa Tanzania aliitwa nani?
+-6622270617754686628	False	John Saxon ana miaka mingapi?
+32704675945237341	False	Borja Mayoral Moya alijiunga na klabu ya Real madrid mwaka gani?
+-4818655555348477086	False	Je Nigeria ilipata uhuru mwaka upi?
+6578042083684846430	False	Je,bara Hindi ina ukubwa kiasi gani?
+-3717045284827325592	False	Je ni reptilia wote wenye sumu?
+37439810120489835	False	Je, T-Pain alizaliwa lini?
+-5858730101474608274	False	Je,ugonjwa wa kisukari inaweza pata mtoto wa umri wa miaka tano?
+5059795169636662123	False	Je,Zambia ina idadi ya watu wangapi?
+1876820529347701614	False	Rais wa Ufaransa ni nani?
+590344774100622190	False	Je,lugha rasmi nchini Uganda ni gani?
+4604370004970740591	False	Innocent Cornel Sahani alizaliwa mwaka upi?
+-8820004333452190854	False	Ni jamii gani ina idadi ya wachache zaidi Kenya?
+4387127171123358589	False	Je,mji mkuu wa China ni ipi?
+4099844163658574718	False	Je, Burundi ilipata uhuru mwaka upi?
+1863141544942582654	False	Kiwanda kikubwa cha mafuta nchini Tanzania kinaitwaje?
+-5967416006159647869	False	Tuzo za Nobel zilianzishwa mwaka gani?
+-1237180798917772415	False	Je,ni mto gani mkubwa zaidi duniani?
+-457634815403422843	False	Je,Mji wa Tanzania ina mito ngapi kwa jumla?
+6571052533450075013	False	Je, Eukaryota ni nini?
+-4258717832544834676	False	Kuku anayefugwa kwa ajili ya mayai pekee anaitwaje?
+-3818538727130915956	False	Kamusi ya kwanza kabisa ya lugha ya kiswahili iliandikwa na nani?
+-9045362130060256366	False	Je,sayansi ni nini?
+-6372505539706266734	False	Mji mkubwa Dubai ni gani?
+8411979549108063119	False	Senegal iko na idadi ngapi ya watu?
+9894439700261778	False	Je,Kenya ina vyama ngapi vya kisiasa kufikia mwaka 2019?
+7938222083563621266	False	Mji mkuu wa nchi ya Cote d'Ivoire unaitwaje?
+-3656925242931684459	False	Nani mwanzili wa mziki ya aina ya Hiphop?
+475616452082908053	False	Kerron Stewart alizaliwa mwaka upi?
+-6162561807633020006	False	Martin Luther aliandika vitabu vingapi?
+4617452173735086999	False	Meza ya kwanza ilitumika wapi?
+-4525088679667381349	False	Armenia ina mikoa ngapi?
+-3481349120161481832	False	Sungura hubeba mimba kwa miezi ngapi?
+5011715419343444886	False	Je, zabibu hutumika kutengeneza mvinyo?
+8038186150190394267	False	Ibada ya kipaimara ina sehemu ngapi za mchakato?
+7606910783578155935	False	Ni nchi gani inayo tengeneza sigara kwa wingi ulimwenguni?
+-5697820924783440987	False	Uganda ilipata uhuru mwaka upi?
+7461660897477344159	False	Mji mkuu wa Uganda ni upi?
+-7064363936486376534	False	Je,rais wa kwanza wa Marekani aliitwa nani?
+-6477876901218321494	False	Je,ugonjwa wa ukimwi uligunduliwa na nani?
+3787397368318163879	False	Je, Ni bahari ipi kubwa zaidi?
+-8022199754832843856	False	Wapare wanatokea mkoa gani?
+-8405360540060226632	False	Rais wa kwanza wa nchi ya Taiwan anaitwa nani?
+-8155899766327661640	False	Je,rais wa kwanza wa Ubelgiji aliitwa nani?
+2047929830941539254	False	Bahari kuu duniani ni gani?
+2536643293549673401	False	Mji mkuu wa Uajemi ni upi?
+-4554267330802848828	False	Nchi ya Thailand ina idadi ngapi ya watu?
+541720642154871752	False	Je,kuna saratani ya ulimi?
+-4278317061424833590	False	Je,jina la utani ya William Thomas Berger ni gani?
+-3169474355493078069	False	Rais wa kwanza wa Tanzania anaitwaje?
+-8741969861452588079	False	Biashara za kwanza nchini Uarabuni zilianza lini?
+-849782480174359602	False	Ghana ilipata uhuru mwaka gani?
+6011788300758019023	False	Kuna utawa mara ngapi?
+3083719211488091091	False	Je,Martha Wangari Karua alikuwa waziri wa sheria mwaka upi?
+1219505058530401236	False	Je,Shirika la reli na bandari za Afrika ya Mashariki ilisambaratika lini?
+-3153635072793564198	False	Kuna alfabeti za lugha ngapi kwa jumla duniani?
+2854086737825709016	False	Je,mji mkuu wa Korea Kaskazini ni upi?
+-1562221166898725925	False	Je,East African Breweries ilianza mwaka upi?
+-8523505677156955167	False	Je, gari la kwanza lilitumia mafuta aina gani?
+-3768111342313059360	False	Je,mlima Longonot una urefu kiasi gani?
+-5643317628906603550	False	Nchi gani kubwa zaidi bara la Afrika?
+6788460648738524133	False	Vita vya kwanza duniani vilianza mwaka upi?
+-1083724211141702678	False	Jina kamili la Pelé ni lipi?
+4123943706541145070	False	Je,mto Nile ndio mto mrefu zaidi duniani?
+-8726823938626655243	False	Puto ya kwanza ilitumika nchi gani?
+8033099223349472248	False	Bahari la indi linapakana na nchi ngapi?
+-8363408052961027074	False	Mji wa Weimar una idadi ngapi ya watu?
+-3742776352123642884	False	Msanii 2pac alizaliwa mwaka gani?
+-8482246973176488959	False	Aliyegundua bara la kwanza anaitwa nani?
+-3868786060680483840	False	Rocky Mountains ina manufaa gani ncini?
+-7040378754817025022	False	kuna aina ngapi za fasihi?
+-1366638690124026877	False	Je,mji mkuu wa Uholanzi ni upi?
+-2057676007908533244	False	Uti wa mgongo ni nini?
+3938653568995998724	False	Je,Tha Trademarc ana mke?
+153511301216611334	False	Je,bwawa kubwa zaidi duniani ni ipi?
+-5387076554992481268	False	Je,Fisi ako katika spishi gani ya wanyama?
+-8690930469246624754	False	Je,Marekani Ina idadi ya watu wangapi?
+2782915499259198474	False	Kiunzi ni nini?
+789745177912646670	False	Edith Chewangel Masai alizaliwa wapi?
+1866765706204032015	False	Je,Wales ina idadi watu wangapi?
+-4342426182111609840	False	Je,mahaba ni nini?
+8359031550074698765	False	Kuna spishi ngapi za samaki ulimwenguni?
+-8212042827955917798	False	Nchii ya China ina miaka ngapi?
+3022940719487405078	False	Rais wa kwanza wa kike ulimwenguni anaitwa nani/
+-5058983318655701989	False	Chansella wa kwanza wa Chuo Kikuu cha Benin anaitwa nani?
+822683285168602137	False	Je,nchi ya Yordani iko katika bara gani?
+-3508602709664371683	False	Je,makao makuu ya kaunti ya Samburu ni wapi?
+-3010347752791593955	False	Je,ni timu ipi ilishinda ligi ya Uingereza mwaka msimu wa 2017/2018?
+8528414228769389593	False	Je, somo la mifupa ya binadamu linaitwaje?
+3743831804868451357	False	Je,mji mkuu wa Afrika Kusini ni upi?
+-4759122219042497503	False	Je,ni kilomita ngapi kutoka Machakos hadi Nairobi?
+-4233465727310357468	False	Je,rais wa kwanza wa nchi ya Kongo alikuwa nani?
+8219906241997802530	False	Je,mmea wa miraa inapatikana kwa wingi katika kaunti gani nchini Kenya?
+-6104363571198735318	False	Nani mmiliki wa kampuni ya google?
+-2689034450210091989	False	Je,Alain Didier Zokora Deguy alizaliwa lini?
+-5154659686183449554	False	Je,kundi la muziki ya Westlife ina wanachama wangapi?
+8044335009793309738	False	Mapigano ya Tours na Poitiers yalianza wapi?
+7644497120164801583	False	Je,David Munyasia ana mke?
+4128261918885547058	False	Nchi ya Kuba iko na ukubwa wa kiasi gani?
+-8263223098037486537	False	Je,msitu mkubwa kabisa duniani ni ipi?
+4717618965579533363	False	Mlima Kenya una futi ngapi?
+763100614219512885	False	Je magimbi hukuwa vizuri kwa mchanga ya aina gani?
+-1049566683657425865	False	Je,Kenya African Union ilibadilika na kuwa chama gani cha kisiasa nchini Kenya?
+-2393767749988709317	False	2Pac alikuwa na albamu ngapi?
+2860678464852094011	False	Je, gesi inasafirishwa kwa njia gani kuu?
+8138971566877523001	False	Mvua hunyesha mara ngapi kwa mwaka katika Ufalme wa Uarabuni wa Saudia?
+2311960732335033408	False	Jua ina ukubwa gani?
+7637738630419225662	False	Kampuni ya mawasiliano ya Safaricom ilianza mwaka upi?
+-2431586857329189821	False	Kemikali ya kwanza inaitwaje?
+-5493613698547745722	False	Je,bara Asia ina idadi ya nchi ngapi?
+3692434733167889477	False	Uga kubwa wa mpira Uhispania ni gani?
+7001195444194630724	False	Wimbo wa I Have a Dream ulirekodiwa mwaka gani?
+5973138687459429446	False	Antibiotiki iligunduliwa na nani?
+-4109758082470675376	False	Je, wahindi huzungumza kingereza?
+5776118954909396051	False	Je,Colin Salmon alizaliwa mwaka upi?
+3078257208553983061	False	Jina la kwanza la nchi ya Kongo lilikuwa gani?
+-6581553580697539497	False	Je, ugonjwa wa Saratani ya titi una tiba?
+-3365058552554972066	False	Umeme hupimwa kwa kifaa kipi?
+-4924554405870056351	False	Mboga huchukua muda gani hadi kuota matunda?
+-2337243401363846047	False	Kerron Stewart alijiunga na riadha mwaka gani?
+3393107600674815073	False	Je, ziwa ndogo nchini Kanada lina urefu kiasi gani?
+-8540600648146019227	False	Je mtoto huanza kumea meno akiwa na miezi mingapi?
+2127191271934979174	False	Je,yai ya mbuni huwa na takriban kilo ngapi?
+-1401264884576113561	False	Je,nyoka iko katika spishi gani ya wanyama?
+6540780545243516004	False	Jimbo la Delaware lina ukubwa gani?
+3421393715719658604	False	Je,mlima mkubwa zaidi Norwei ni upi?
+3647441365127892077	False	Timu ya taifa ya soka ya Brazil imeshinda kombe la dunia mara ngapi?
+341510854415129709	False	Mark Elliot Zuckerberg alianza mtandao wa Facebook mwaka upi?
+-2576536889399083920	False	Je aliyekuwa rais wa Afrika kusini Nelson Mandela alitoka jela mwaka upi?
+-1969776044680536978	False	Piramidi ilijengwa mwaka gani?
+-338496383462425486	False	Je, mto Niagara una urefu gani?
+-2202712944220951435	False	Mlima wa Himalaya uko na urefu wa kiasi gani?
+-4203557043578876809	False	Je,Ethiopia ina takriban idadi ya watu wangapi?
+-496503176313553803	False	Je,Nash Aguas alizaliwa lini?
+-9087111009749808005	False	Lugha rasmi inayotumika Zanzibar ni gani?
+-131723674260280199	False	Nchi ya Eritrea inapatikana katika bara gani?
+5488342965624401016	False	Nchi ya Marekani ina majimbo mangapi?
+-5659109259679908742	False	Nilgai ana ukubwa kiasi gani?
+-6712143732969300868	False	Kulungu aktiki anakula nyama?
+-6983021279417631619	False	Rais wa kwanza wa Zambia aliitwa nani?
+6541085042852699258	False	Mke wa taifa la Kenya anaitwa nani?
+1617560658321054844	False	Je,kuna spishi ngapi ya bakteria?
+-7153631458978423682	False	Kristoforo Kolumbus alizaliwa wapi?
+-6372958755779183485	False	Mwanamuziki Elvis Presely aliimba aina gani ya muziki?
+8012235636772617342	False	Je,Chukwuemeka Odumegwu Ojukwu alizaliwa lini?
+7242121414732536960	False	Je, Kenya ilipata Uhuru mwaka gani?
+1180484234680867976	False	Mama wa rais wa Uholanzi ni nani?
+621776127146134670	False	Pombe ya kwanza ilitengenezwa na nani?
+-4100735741461201775	False	Treni ya kwanza ya umeme ilitokea nchi gani?
+-4292180396174652269	False	Tanakh ni nini?
+658206328175660178	False	Uturuki iko na idadi ngapi ya watu?
+7378275854166973597	False	Lugha la nchini Ujerumani ni lipi?
+3969107253057240223	False	Mke wa rais wa kwanza wa Tanzania aliitwa nani?
+8098099539971878049	False	Je, kitabu cha kwanza katika lugha ya Kihindi kiliandikwa na nani?
+-8029290712995291993	False	Jina Hydrox linatokana na nini?
+-1837312268657288022	False	Roma Mkatoliki alizaliwa mkoa gani?
+-1835985377754067795	False	Sayansi iligunduliwa miaka gani?
+-5362442020606395215	False	Je, bara Australia lina ukubwa wa kilo mita ngapi?
+2237053867530431664	False	Je, nyambizi kubwa ulimwenguni inapatikana nchi gani?
+392998049956560049	False	Jihadi ya Kiislamu ya Misri ilianza mwaka upi?
+5766242616353828022	False	Nani alikuwa rais wa kwanza Urusi?
+2534687308648602811	False	Je,Uganda ilipata uhuru mwaka upi?
+-8855793951462343488	False	Wales ina idadi ngapi ya watu?
+-8769550970943771454	False	Je, ni nani alikuwa wa kwanza kukwea mlima Kenya?
+-1216735822950224701	False	Nani alizundua kifaa cha kupima joto?
+3071565845244038339	False	Je,mlima mkubwa zaidi nchini Tanzania ni upi?
+3501947471195757763	False	Je,Chupong Changprung alizaliwa mwaka upi?
+-4938551250092090168	False	Je,mfereji ni nini?
+6893024845231500485	False	Demokrasia ya Kongo ilipata uhuru mwaka gani?
+-5305614859052450615	False	Je,kundi la muziki la 116 Clique ilizinduliwa mwaka upi?
+-8546566232130388789	False	Je,Uganda ina mikoa ngapi kwa jumla?
+-8083449591519212337	False	Nchi ya Ujerumani ilitawala nchi ngapi barani Afrika kipindi cha ukoloni?
+-6897219843643015985	False	Mji mkuu Uganda ni?
+2239224499943546068	False	Sydney iko katika bara gani?
+-5258548038091625256	False	Je alikuwa rais wa Kenya Mwai Kibaki alikuwa mwalimu?
+1342478926753750231	False	Wilaya ya Musoma ina idadi ngapi ya watu?
+4961058380473122006	False	Je,seli nyeupe ya damu ina kazi gani kuu kwenye mwili?
+6429452085935168732	False	Nani alizindua jina hilo la Utandawazi?
+1206935308798033118	False	Bara la Asia liko na ukubwa wa kiasi gani?
+-81874196217410334	False	Je,idadi ya watu jijini Nairobi ilikuwa ngapi wakati wa sensa 2009?
+426474006999678179	False	Je,Ngamia anaweza kaa bila maji kwa muda gani?
+-4946323037575439131	False	Nchi ya Urusi iko na ukubwa wa kiasi gani?
+8118736268939099362	False	Je,gari la kwanza kutumika nchini Ujerumani lilikuwa lipi?
+-2417568361080578841	False	Je,ni kilomita ngapi kutoka Nairobi hadi Nyahururu?
+-5584017196373127959	False	Peter I alisomea wapi?
+3395583331811376357	False	Mlima mkubwa zaidi nchini Kenya ni upi?
+1141931778385181925	False	Shirika la Umoja wa Mataifa lilianzishwa mwaka gani?
+3566816496172309743	False	Stesheni ya televisheni ya serikali nchini Afrika Kusini ni gani?
+4762492295399320816	False	Je,simba wa kike ndiye huwinda?
+-4014962173408240391	False	Je,mto Don ina urefu wa mita ngapi?
+-7328023297278538500	False	Kuna aina ngapi ya Konokono?
+7193761271792995575	False	Mtindo wa muziki wa hip hop ulianzishwa na nani?
+-84806846540337922	False	Lugha ya Kiswahili ilianzia wapi?
+-8273098964258611967	False	Mchezo wa soka ulianzia wapi?
+-2320994477519983357	False	Je,Sungura wa Kizungu anaweza zaa watoto wangapi kwa wakati mmoja?
+2740188718845332737	False	Nani mwanzilishi wa kitabu ya rekodi ya guinness?
+6840501337270037762	False	Aliyekuwa rais wa Tanzania Julius Nyerere alifariki mwaka upi?
+-1638268640229548796	False	Filamu ya FAllout ina misimu ngapi?
+-1347647819534770935	False	Tuzo za Grammy zilianzishwa mwaka gani?
+-614947938432357107	False	Je, maziwa ya unga hutengenezwa kwa jinsi ngapi?
+-8464418852467741423	False	Rais wa Britania ni nani?
+5813413473173933328	False	Waziri mkuu wa Kenya mwaka wa 1963 alikuwa nani?
+2027725078834560274	False	Mae Carol Jemison alizaliwa mwaka gani?
+5532748226046790930	False	Je,ziwa la Victoria ina maji ya aina gani?
+8999836614934850835	False	Mji wa New York uko na ukubwa wa kiasi gani?
+-7519855977849643751	False	Mary Mgonja alizaliwa wapi?
+-5713219366764040934	False	Je, nani alikuwa rais wa kwanza wa Ujerumani?
+-3659032844442653413	False	Kata ya Mkongo ina takriban watu wangapi?
+6072471662484307226	False	Je,nani wa kwanza kuenda kwa mwezi?
+5019493958525697308	False	Ghorofa ya kwanza nchini Kenya ilikuwa na majumba mangapi?
+7970163726068280604	False	Je,nyoka hupumua kupitia sehemu gani ya mwili?
+8652688294677855515	False	Nchi ya Urusi ina ukubwa gani?
+2998055058391543072	False	Rais wa Marekani mwaka wa 1885 anaitwa nani?
+-8003204823198085848	False	Nasaba ya Wamuawiya ilikuwa na viongozi wangapi?
+-3440746623402582744	False	Je,Julius Nyerere alihudumu kama rais wa Tanzania kwa muda upi?
+8087180692091542822	False	Mji mkuu wa Iran ni upi?
+-8883378522548863700	False	Je,mji mkuu wa New Zealand ni upi?
+2892849925369105708	False	Je,Kirsten Prout ana dada?
+2552839018943016240	False	Je,albamu ya Money Monday ina nyimbo ngapi kwa jumla?
+-4772708700491842253	False	Ugonjwa wa njia za pumzi una tiba?
+6449270919286025521	False	Nchi ya India ina ukubwa kiasi gani?
+4324275312239906100	False	Je, Celine Dion ana albamu ngapi?
+8312916439987432755	False	Je,mtayarishaji wa tamthilia ya Heroes anaitwa nani?
+-5417597107070399175	False	Je,nani mwanzilishi wa chama cha African National Congress?
+-8652487552945459910	False	Je, kaisari ni nani?
+5944804400362622264	False	Je, umoja wa mataifa ulianzishwa na nani?
+-1195248920976020165	False	Rais wa Marekani mwaka wa 2000 anaitwa nani?
+-7612545875524379330	False	Kuna idadi ngapi ya kabila la wasuba nchini Kenya?
+1696208529555479867	False	Mji mkuu Denmark ni?
+1687154625931750718	False	Sheikh wa kwanza ulimwenguni anaitwa nani?
+608099184454860095	False	Je,nchi ya Gabon ilipata uhuru mwaka upi?
+5037431362301046079	False	Mji wa Maka una idadi ngapi ya watu?
+-7196059936653021881	False	Mji mkuu wa  Prussia ulikuwa unaitwaje?
+-189736286320554684	False	Simba huzaa baada ya muda gani?
+-454310159333380796	False	Je,twiga hubeba uja uzito kwa miezi ngapi?
+-5021778859077386937	False	Jennifer Garner ana miaka mingapi?
+8811807994561342795	False	Je,idadi ya watu nchini Ufaransa ni ngapi?
+2804821625730854228	False	Je,chama cha kisiasa cha KANU kilianza mwaka upi?
+-5063200214153925286	False	Ni lugha gani ina maneno mengi zaidi?
+256842498319600989	False	Kuna visiwa vingapi ulimwenguni?
+-3117758823796081314	False	Marekani iko na idadi ngapi ya watu?
+4271616316693605727	False	Malawi ina idadi ngapi ya watu?
+7976939932265246050	False	Romano Prodi alizaliwa mwaka gani?
+456545793702026599	False	Je,Kenya ina kabila ngapi kwa jumla?
+-2346193323431555733	False	Je,ukahaba ni halali nchini Kenya?
+-130469484720042645	False	Washindi wa mpira wa mguu wa bara Uropa mwaka 2004 ni nani?
+-7014052801582502546	False	Mji mkuu wa Italia ni upi?
+1805317354428435818	False	Je,punda iko katika spishi gani ya wanyama?
+-5183339267887530640	False	Je,idadi ya watu nchini Ghana ni ngapi?
+-5324528108723679887	False	Je,mwisho wa utawala wa nasaba ya Ming ulikuwa mwaka upi?
+-3184712443543360138	False	Je, ugonjwa wa tezi kibofu uligunduliwa mwaka gani?
+1999060509842652535	False	Je,mnyoo wa Ascaris lumbricoides unaweza kua hadi sentimita ngapi?
+-3101517460773278343	False	Rais wa kwanza wa Marekani aliuawa mwaka upi?
+5408157319993163127	False	Je,mji mkuu wa Somalia ni upi?
+-3880512890427208325	False	Waziri wa kwanza wa Fedha nchini Kenya  alikuwa nani?
+5316288960001924475	False	Bahari kuu Kenya ni gani?
+-1255329714797736573	False	Vita vikuu vya kwanza vya dunia vilianzia nchi gani?
+-2320254194642727546	False	Manchester United wamekuwa mabingwa wa Ligi ya UEFA kwa muda gani?
+-7252161866301219448	False	Kazi ya mlezi ni ipi?
+2449579345162087814	False	Mwimbaji R. Kelly alianza kuimba mwaka upi?
+9111294167992311173	False	Allen Dennis Mitchell alizaliwa wapi?
+-5418736903636202100	False	Je,kuku anaweza taga takriban mayai ngapi kwa siku?
+7255556863987633544	False	Klabu ya Crystal Palace ilianzishwa na nani?
+1368181852451061130	False	Je,mji mkuu wa Ireland ni upi?
+-7515166216167187055	False	Sanamu ya Zeu inapatikana wapi?
+3403799366201699730	False	Simone Gooden alizaliwa wapi?
+-5051620246746415722	False	Bwana Heri bin Juma alikuwa sultani wa Saadani mwaka upi?
+-7961735867662004839	False	Je mchezaji yupi alifunga bao la kwanza kwa kombe la dunia mwaka 2010?
+343450429313633687	False	Msalvia una urefu gani?
+5480832698408594836	False	Maimonides alizaliwa mwaka gani?
+8055936457570561430	False	Mto mkubwa Rwanda ni gani?
+-6552339859813401189	False	Taifa la Kenya lilipata uhuru mwaka gani?
+-2878346946523406949	False	Je,saratani ya titi ina tiba?
+1001225977755024795	False	Mae Carol Jemison alisoma chuo kikuu gani?
+-5054873051802235489	False	Makao makuu ya  NASA  yako wapi?
+8322267544564800924	False	Kenya ina kaunti ngapi?
+2288229081876860320	False	Eneo la Namibia lina ukubwa gani?
+-6273652819171131994	False	Kampuni ya Kijerumani kwa Afrika ya Mashariki ilianzishwa mwaka gani?
+-6169790399398863447	False	Je, Protoni ni nini?
+4439020432271379887	False	Je,vita kuu vya pili duniani vilianza mwaka upi?
+8312219537484426670	False	Je,George Weah alizaliwa mwaka upi?
+-8982789457915765324	False	Je,Albania ina idadi ya watu wangapi?
+-1728845138425774669	False	Je mlima Kilimanjaro inapatikana katika nchi gani?
+-9192871249513013834	False	Rais wa kwanza wa China anaitwa nani?
+3344322457228672440	False	Bendera ya Uturuki ina msimbo upi?
+-6064349888956453439	False	Mji wa Kigali una idadi ngapi ya watu?
+7393567293110922687	False	Je,mji mkuu wa Japani ni upi?
+6686379507821174211	False	Bayern Munich ilianzishwa lini?
+-8316353408299930167	False	Tanzania ina idadi ya watu wangapi?
+8079074096413031876	False	Je,mziki wa injili ilianza lini Tanzania?
+8618135922004245963	False	Je,Mali ina idadi ya watu wangapi?
+7617518645868776908	False	Steven Kanumba alizaliwa katika wilaya gani?
+-1191540564084814385	False	Je bahari ya Shamu ina urefu gani?
+-1266034544364921392	False	Mwana historia wa kwanza anaitwa nani?
+568455433017200082	False	Je,Bill Gates alianzisha kampuni ya Microsoft mwaka upi?
+5286455894744665554	False	Je,nani aligundua ugonjwa wa ukimwi?
+5696462120748555728	False	Inter-territorial Language committee ilianzishwa na nani?
+-2348274667048108588	False	Titani ni nini?
+-7555364075836244518	False	Ni mto upi unapitia ndani ya mji wa London?
+-8472883025334870561	False	Je, bara Afrika ina nchi ngapi kwa jumla?
+-6254677291623293473	False	Uingereza ina visiwa vingapi?
+-360990416979956258	False	Jina Musambwa linatokana na nini?
+-7703100320172704289	False	Je, kuna tiba ya Prekilampsia?
+3064728248487415265	False	Je,nchi ya Syria ina idadi ya watu wangapi?
+-2428204261708628507	False	Je,Donald Gordon, CC, CMG alizaliwa mwaka upi?
+7093293783302692329	False	Nchi ya  New Zealand ina idadi ngapi ya watu?
+5211584021382135275	False	Geline Alfred Fuko alisomea chuo gani kikuu shahada ya kwanza?
+5220066036052446700	False	Je,barabara ya Thika nchini Kenya ilitengenezwa mwaka upi?
+3198493591117503982	False	Jumuiya ya Nchi Huru ina nchi ngapi duniani?
+-7725959758460326413	False	Jokate Mwegelo aliteuliwa kama DC mwaka gani?
+4263729634703875571	False	Tanzania ina klabu ngapi za mpira wa soka?
+-7489805647856640520	False	Je,vyuo vikuu vya Aga Khan ni ngapi nchini Kenya kufikia 2018?
+4802071358507175412	False	Je,wanariadha wa Marekani Marion Jones alistaafu kutoka riadha mwaka upi?
+5641225313276095989	False	Blog ya kwanza ilihusu nini?
+6516887995934006771	False	Je,Günter Wilhelm Grass alishinda tuzo la Nobel mwaka upi?
+7017555609375247863	False	Bara kubwa duniani linaitwaje?
+2498011961748110843	False	Nani mwanzilishi wa dini ya Uyahudi?
+-717504884127003136	False	Je,Simba hubeba mimba kwa miezi ngapi?
+4075037880677907967	False	Emmanuel Ake Richard Muttendango ana miaka mingapi?
+-1574092504335135230	False	Je,nani mwanzilishi wa mpira wa vikapu duniani?
+5327811599720041987	False	Je,Kumar Sanu alianza kuimba mwaka upi?
+-2171987199586062843	False	Je,Tupac Amaru Shakur alizaliwa lini?
+-4043944268408353272	False	Teolojia ya dogma ni nini?
+-4809496932653179383	False	Je, ni chombo kipi hupima upepo?
+-3040695882861781487	False	Mji wa Khartoum una ukubwa gani?
+2663605656638774800	False	Je,jina la kisayansi ya chawa ni gani?
+170195323113487890	False	Je,ugonjwa wa homa ya matumbo ni hata kwa mama mja mzito?
+7567959055816633872	False	Sayansi ina maana gani kwa binadamu?
+7557165860817378832	False	Kuna sayari ngapi kwa ujumla?
+-1243864635382481387	False	Je,sensa hufanyika nchini Kenya baada ya kila miaka ngapi?
+2374320772760366614	False	Je,chawa iko katika kundi gani ya wadudu?
+3891632259607002650	False	Je,hospitali ya Kenyatta ilijengwa mwaka upi?
+-5680812621402886625	False	Je,klabu ya Arsenal iliingia katika Ligi Kuu Uingereza mwaka upi kwa mara ya kwanza?
+7895184750599908894	False	Bibi wa rais wa Roma ni nani?
+6636400886148886051	False	Je,Annapurna ina urefu wa mita ngapi?
+5188857396863823396	False	Idadi ya watu wa Nchini Meksiko ni ngapi?
+4885189468174884388	False	Je,Arsene Wenger alizaliwa mwaka upi?
+6870584825225436712	False	Je,mto Exe ina urefu wa kiasi gani?
+-7188977290630865360	False	Je,Waraka wa kwanza kwa Wathesalonike ina kurasa ngapi?
+-8978935746127692238	False	Je, Kofi Annan alizaliwa mwaka upi?
+249805690793852465	False	Xenoni ni nini?
+6720388039796715060	False	Nani mwanzilishi wa stesheni redio inchini Kenya?
+5029633156670352950	False	Nigeria ilipata huru mwaka gani?
+6934744302043921989	False	Mwanasayansi wa kwanza kugundua ugonjwa wa saratani ni nani?
+-7711621565949387187	False	Tupac Shakur alifariki mwaka gani?
+7641096782440615501	False	Je,Italia inatumia sarafu gani ya pesa?
+4454253474639777360	False	Je,Uhispania ina idadi ya watu wangapi?
+1822974905456893520	False	Kenya imekuwa na rais wangapi?
+4766654438318165587	False	Bahari ya Karibi ina ukubwa gani?
+-249578768905916843	False	Chanzo kuu cha ugonjwa wa ukambi ni gani?
+-6805862550217335208	False	Je,stesheni ya kwanza wa redio nchini Kenya ni ipi?
+-5479488534425002405	False	Dini la ukristo lilianza mwaka upi?
+-5991716877340017061	False	Intaneti ilitengenezwa mwaka upi?
+3629525672932056667	False	Je,Bahamas ina takriban idadi ya watu wangapi?
+5948917092049784420	False	Yesu alianza huduma akiwa na miaka mingapi?
+-5355964423100387735	False	Ni nchi ngapi Afrika inazalisha mafuta?
+-5490919133351350678	False	Pesa iligunduliwa mwaka gani?
+-6272533284944474515	False	Mji mkubwa nchini Tanzania ni upi?
+-7858041810287104402	False	Je,jangwa la Sahara inapatikana katika bara gani?
+8725068481208360552	False	Je, bendera ya nchi ya Ghana ina rangi ngapi?
+-7936191201932894607	False	Je, bahari hindi ina ukubwa kiasi gani?
+-2593323311042797967	False	Je,Sudan ina idadi ya watu wangapi?
+3663657314500443760	False	Je,Jangwa kubwa zaidi duniani ni ipi?
+491225815291952754	False	Je,Rais wa kwanza wa Angola aliitwa nani?
+5021291115953581681	False	Je,gari la kwanza kutumika Marekani ilikuwa lipi?
+5987789366314475122	False	Je,nyangumi ndiye mnyama mkubwa zaidi katika spishi ya mamalia?
+2803074332626001532	False	Je,nani rais wa Niger mwaka 2019?
+9049642306367377022	False	Je, ni Simba kike ndio huwinda?
+-6237482698782781817	False	Mji mkuu wa Fiji ni upi?
+-3255456063265886585	False	Kamoya Kimeu alizaliwa mwaka gani?
+-6783854557956764024	False	Je, Kenneth David Kaunda alizaliwa mwaka upi?
+3742868151137836678	False	LL Cool J ana albamu ngapi?
+3978800639710908040	False	Je, Mbuga kubwa ya wanyama nchini Kenya inapatikana wapi?
+-798173494125670770	False	Jangwa kubwa linaitwaje?
+-8518968021504618862	False	Kenya ilipata huru wake mwaka gani?
+8584385241601867404	False	Nani alikuwa rais wa kwanza wa Gambia?
+2271656463807987344	False	Je, chombo cha kwanza kwenda anga ya juu kinaitwaje?
+-2316088827313807724	False	Je Slovakia wanatumia sarafu ya pesa?
+8202330871065988753	False	Mlima mkubwa wa volkeno ulimwenguni unapatikana wapi?
+1274636085429251732	False	Ni nani wa kwanza kuenda kwa mwezi?
+7082821441942068882	False	Rais wa kwanza wa nchi ya Uganda alikuwa nani?
+-6809606413783236968	False	Pesa iligunduliwa nchini gani?
+-1968422953976041832	False	Je,rais wa kwanza wa Tanzania alikuwa nani?
+380209519970590358	False	Mengistu Haile Mariam ana watoto wangapi?
+-419552118013108584	False	Riwaya ya kwanza ya  Ngugi wa Thiong'o ilikuwa inaitwa aje?
+-3171347743606829412	False	Je, Bahari hindi ina ukubwa wa kiasi gani?
+3797833121722715802	False	Anthony Alexandre Anderson ana watoto wangapi?
+-7211635225033113957	False	Somo la kiswahili linafunzwa katika nchi ngapi barani Afrika?
+1930010645021281950	False	Mwanamke wa kwanza kuwania urais nchini Kenya ni nani?
+-2326272793505575263	False	Je,mji mkuu wa Poland ni upi?
+2874917142822702751	False	Ethiopia ina idadi ya watu wangapi?
+-7044335989319287132	False	Je,nanai alizindua saa ya mkono?
+6187844541985193632	False	Nanomita ina ukubwa gani?
+-4258236069505536345	False	Bahari kubwa duniani inaitwaje?
+7299763476498943652	False	Kemikali ya kwanza ilivumbuliwa mwaka upi?
+1449964204017000103	False	Rais wa Jamhuri ya Watu wa China mwaka 2018 anaitwa nani?
+-2561838888029466966	False	Je,Ureno ina idadi ya watu wangapi?
+3652064567667117737	False	Bahari ya Atlantiki iko na ukubwa wa kiasi gani?
+7063577739361455782	False	Je,Kampuni ya mawasiliano ya Safaricom ilianza mwaka upi?
+-8104904253985640785	False	Geac Computer Corporation ilianza mwaka upi?
+4065157948692967082	False	Je,papa wa kwanza duniani alikuwa nani?
+1055459668197842605	False	Je, Mkurugenzi wa Shule ya Upili ya Wavulana ya Starehe 2006 anaitwa nani?
+2732634672576212654	False	CNN ina wana habari wangapi?
+-7138186490611401039	False	Milki ya Ashanti ilianza mwaka gani?
+-2160415102356078923	False	NI chombo kipi hutumika kuangalia viumbe vidogo majini?
+1234999408736980663	False	Je,jangwa kubwa kabisa bara Afrika ni ipi?
+8048413554016300725	False	Je,kuna bara ngapi duniani?
+-5194052577920618818	False	Askofu wa kwanza wa kanisa la Anglikana anaitwa nani?
+8209786254360243901	False	Gabon ilipata uhuru mwaka upi?
+-875112993385939262	False	Je,kuna samaki yenye sumu?
+-4190716657649430843	False	Aina za tarakilishi ni ngapi?
+8284957140955651781	False	Je,msimu wa pili wa kipindi cha Heroes ina sehemu ngapi?
+-9013754505947078964	False	Utawala wa Pharaoh mjini Misri ulikuwa wa muda gani?
+-5016431079888441649	False	Je,rais wa Kenya wa Liberia aliitwa nani?
+8110596987857497804	False	Mwana mitindo mashuhuri ulimwenguni kote anaitwa nani?
+-4474410116334301488	False	Mji Mkuu wa Tanzania ni upi?
+-3050745838442213678	False	Je,rais wa kwanza wa shirikisho ya soka FIFA aliitwa nani?
+-3762831144801304880	False	Nyoka iko katika spishi gani ya wanyama?
+7363234757808406227	False	Mto mkubwa Japani ni gani?
+-8252988053552718119	False	Jada Koren Pinkett Smith alizaliwa wapi?
+6927679407544155861	False	Bibilia ina takriban miaka mingapi tangu uandishi wake?
+626927882632564443	False	Rais wa marekani ni nani?
+1616591876004323037	False	Afrika ya Mashariki kuna nchi ngapi kwa ujumla?
+-1575891923408548130	False	Musa alifia katika mlima gani?
+8037185784832249563	False	Je,Mombasa ina idadi ngapi ya watu?
+-2816438165586182433	False	Timu ya taifa ya soka nchini Nigeria inaitwaje?
+3824360170491899616	False	Je,Bara Ulaya in nchi ngapi kwa jumla?
+-4343119029735190813	False	Mhariri mkuu wa gazeti la  NRC Handelsblad anaitwa nani?
+4486716290848210657	False	Mji mkuu Burundi ni upi?
+1657860844449816290	False	Ethiopia ilitawali na nchi gani katika enzi ya mkoloni?
+-2725107511247560985	False	Gitobu Imanyara alizaliwa katika kaunti gani?
+-4702565867840966935	False	Je,Uprotestanti alikuwa na mke?
+-2576631234538184984	False	Nani alikuwa Rais wa Amerika wakati wa Vita vya Kidunia vya pili?
+-2529746939599368468	False	Chama cha NAZI kilianzishwa na nani?
+7964536791182130921	False	Ni nani alibuni ufuaji wa metali?
+-274320280781930772	False	Je,chuo kikuu cha Moi kilianza mwaka upi?
+-138125155164696850	False	Je, Michael Carrick ana mke?
+2268797901096103662	False	Mwana saikolojia wa kwanza anaitwa nani?
+1996697821089025776	False	Je,Mbuga ya Serengeti ina ukubwa wa kiasi gani?
+-516093588886196495	False	Roma ni mji katika nchi gani?
+1321015689391226612	False	Chombo cha kukuzia sauti kilitokea wapi?
+-912796843523100939	False	Italia ipo katika bara gani?
+4887595627656564469	False	O'Shea Jackson aianza uigizaji mwaka gani?
+6770156942369005301	False	Je,pundamilia anaweza fugwa nyumbani?
+-6236749893996056837	False	Ni chombo kipi hutumika kupima kasi ya upepo?
+2907894813316202232	False	Mtawa wa kwanza mwanamke anaitwa nani?
+4350131705524154106	False	Fueli za kisukuku zina madhara gani katika hewa?
+7179425072162348790	False	Je, ni nani alitunga lugha ya Kompyuta?
+-7336009317825626370	False	Serbia iko na wakazi wangapi?
+3861533963181879038	False	Je,Dar es Salaam ina idadi ya watu wangapi?
+2764140672264826623	False	Je paka husihi miaka ngapi?
+6530543167703502590	False	Je, mfumo wa utetezi wa haki za binadamu ulianzia nchi gani?
+-4118465264304959743	False	Chama cha Mapinduzi kilianza mwaka upi?
+-9046391938599330047	False	Mwai Kibaki ana watoto wangapi?
+-8633715858882811	False	Ushairi ni nini?
+7028689061329145603	False	Kocha wa kwanza ya klabu cha Arsenal alikuwa anaitwa nani?
+-3413750729235988726	False	Nani mmiliki wa Channel O?
+1864325659537936141	False	Je,Romano Prodi alizaliwa lini?
+-3028593141369250029	False	Je,dini ya katoliki ilianza karne ipi?
+3189194931550199570	False	Je,mbuga ya Maasai Mara inapatikana katika kaunti gani nchini Kenya?
+345110578603937557	False	Mlima Kilimanjaro una futi ngapi?
+-8265250547551056100	False	Chama cha kisiasa kilicho tawala Kenya kwa muda mrefu ni kipi?
+-353214437488496868	False	Je,mlima Himalaya ina urefu wa mita ngapi?
+46721565636898590	False	Je, The Calgary Herald lilianza kuchapishwa mwaka gani?
+-2524626622369849569	False	Je, Pele alianza kucheza soka mwaka upi?
+-7544652921740357852	False	Aliyekuwa rais wa Marekani Barrack Obama alizaliwa wapi?
+495094183603031844	False	Je,Kingereza ni lugha rasmi nchini Kanada?
+-5345754834343424217	False	Ni nani wa kwanza kufika kwa mwezi duniani?
+-4178954730410729690	False	Mji mkuu wa Nigeria ni upi?
+434338864712159015	False	Je,dini gani yenye watu wengi nchini Kenya?
+5118783077928288038	False	Rais wa Algeria ni nani?
+-6043662082704056532	False	Chupong Changprung alizaliwa wapi?
+-918613608647733460	False	Lanhydrock House inapatikana wapi?
+6141986788933750575	False	Jina rasmi la msanii Dknob ni nini?
+-555271762790658251	False	Je,mji mkuu Tanzania ni upi?
+2061340921564708662	False	Yucatan ni jimbo la wapi?
+-399474610708283591	False	Je,makao makuu ya kampuni ya Toyota iko wapi?
+-1787904301641748677	False	Je,Marianne Koch ana watoto wangapi?
+-4207705805780697284	False	Kulingana na mafundisho, mwisho wa dunia ni lini?
+-721222648729211072	False	Eritrea ina idadi ngapi ya watu?
+3609952847439318848	False	Rais wa pili wa Ujerumani alikuwa nani?
+8897636186001993536	False	Mji mkuu Tanzania ni upi?
+3047382997368598337	False	Afrika kusini kuna nchi ngapi?
+7730267245994221376	False	Bahari ya Atlantiki ya Kusini ina ukubwa gani?
+1512167694008622917	False	Je,Juan Carlos Tedesco alisomea katika chuo kikuu gani?
+3422231979049865030	False	Je,pweza anaweza ishi kwa takriban miaka ngapi?
+-5784702762544439481	False	Jangwa kubwa zaidi Afrika ni gani?
+3961886038170513225	False	Je,Misri imeshinda kombe la mataifa bara Afrika mara ngapi?
+-6929316347969876145	False	Utengenezaji wa siagi ulianza lini?
+-65840254449414324	False	Chama cha Nazi kilianzishwa na nani?
+-4075957797117817010	False	Je, bustani ya Jeevanjee mjini Nairobi ilipewa jina hili na Alibhai Mulla Jeevanjee?
+-7379493836810887340	False	Je,Emily Ruete alikuwa na watoto?
+5999252148893978449	False	Je,nchi ya Zambia ina idadi ya watu wangapi?
+5270726260249616210	False	Rais wa kwanza nchini Korea aliitwa nani?
+-5023988797452468393	False	Afrika ilikuwa koloni ya nchi gani?
+4965769585017831250	False	Karl Peters alizaliwa wapi?
+1128024352246112090	False	Sancho Gracia  ana miaka mingapi?
+268431727787523931	False	Goat Island inapatikana nchi gani?
+-3663241152957411487	False	Je,Misri imeshinda Kombe la Mataifa ya Afrika mara ngapi kufikia mwaka 2019?
+1426329501429493601	False	Je,mlima mrefu zaidi Tanzania ni upi?
+447880322090356581	False	Je,binadamu anaeza kaa njaa takriban siku ngapi kabla kufa?
+-4563513611894878354	False	Je, jangwa la Kalahari inapatikana bara gani?
+549066215417905010	False	Hidrokaboni ni nini?
+-370991061182378121	False	Je,Marekani ilipata Uhuru mwaka upi?
+-2158241324655485065	False	Je, vita vya kwanza vya dunia vilimalizika mwaka gani?
+231935350546722684	False	Je,Eritrea  ina idadi ya watu wangapi?
+-8734335319285756032	False	Je,Wilfred Ombui Moriasi ana watoto wangapi?
+5441695670841384827	False	Nani aliwaongoza wanaisraeli kutoka misri hadi kanani?
+-7021183754302550141	False	Je,jiji la Dar es Salaam ina idadi ya watu wangapi?
+-8681250233335996541	False	Je,fomula la kisayansi ya kaboni ni gani?
+-3019644356884209790	False	Dar es Salaam iko na idadi ngapi ya watu?
+6571949838913290112	False	Je kuku huishi miaka ngapi?
+-295694632552595581	False	Maradhi ya Gonorrhea yana tiba?
+-8793024927688913016	False	Je, nchi ya Zimbabwe ilipata uhuru mwaka gani?
+7982734443556581251	False	Je,Lee Anderson Grant  alijiunga na Manchester United lini?
+8584405034586988414	False	Je,chombo gani hutumika kuangalia nyota angani?
+-7402951399179755639	False	Nani ameandika kipindi cha 24?
+-2039609402633773176	False	Je kuna matunda ambazo zaweza tumika kama dawa?
+-5908105763292602473	False	Dk. Angela Dorothea Merkel alisomea fizikia katika chuo kikuu gani?
+-1692063495741014122	False	Je,bendera ya Tanzania ina rangi ngapi?
+3528008598565126037	False	Makamu wa rais wa kwanza nchini Kenya ni nani?
+-4780905646963662952	False	Je,Alain Kahanga Dekula alizaliwa mwaka upi?
+-4384133985532608614	False	Günter Wilhelm Grass alizaliwa wapi?
+-4809183206803914853	False	Mohammed VI ni mfalme wa ngapi wa Moroko?
+-5918999293103951971	False	Mji wa Texas una ukubwa gani?
+-841971328726249572	False	Bayern Munich ina msimbo gani?
+4302705951061196697	False	Ziwa Tanganyika iko na ukubwa wa kiasi gani?
+-7695131986248523873	False	Visiwa vya Marshall vina tumia sarafu gani ya hela?
+4117615345778958235	False	Nani rais wa Eritrea?
+6347013712505765788	False	Je,nchi ya Afrika kusini ilipata uhuru mwaka upi?
+4638159658168926106	False	Je,idadi ya watu nchini Côte d'Ivoire ni ngapi?
+3229485426566889375	False	Mji mkuu wa Uttarakhand ni?
+8657066978172243883	False	Je,makao makuu ya muungano wa Afrika iko katika nchi gani?
+-4464611616039940176	False	Dwight David Eisenhower alihudumu katika jeshi kwa miaka mingapi?
+-2962433411048157257	False	Je,Kenya ilipata demokrasia mwaka upi?
+-3210713886319071305	False	Je,nani mwandishi wa filamu ya 24?
+2060240995810668477	False	Burukenge iko katika spishi gani ya wanyama?
+-9081010413746004030	False	Je,ndovu hubeba mimba kwa muda upi?
+-3535688968487063611	False	Je, kuna aina ngapi za elementi?
+-7322016844964200504	False	Je,P,Diddy ana watoto wangapi?
+6912474370299850692	False	Jina Waabbasi linatokana na nini?
+-3671394523251576889	False	Je,Nairobi ina takriban ya watu wangapi?
+-401205586237304888	False	Je,mhusika mkuu wa filamu ya Western alikuwa nani?
+5682189717414956999	False	Je,makao makuu ya Visa Inc iko wapi?
+4360577258742677457	False	Je,Samora Machel aliaga dunia mwaka upi?
+1362268383070687198	False	Je,Donald "Flash" Gordon alizaliwa mwaka upi?
+-8847732817116790812	False	Kuvu ni nini?
+105428030016487394	False	Ni nchi gani ndogo zaidi duniani?
+-4682232463758893082	False	Gari la kwanza liliendeshwa na nani?
+3405210921191849956	False	Ni kifaa kipi hutumika kuangalia nyota angani?
+3239201768698535910	False	Je,mji mkuu wa Estonia ni ipi?
+-7187425409673551892	False	Nchi ya Alaska ina baridi kiasi gani?
+4983321512481013742	False	Alama ya dhahabu ya Au kwa urefu ni nini?
+-3954267128548442124	False	Je,tunda la maembe linaitwaje kisayansi?
+7926025508702924786	False	Je bara la Afrika ina nchi ngapi?
+-5640717925639667718	False	Je,ndugu ya Simoni Petro aliitwa nani?
+5165249798625443831	False	Chuma ni nini?
+4680763211435122681	False	Mwandishi wa kwanza wa riwaya ya kiswahili nchini Kenya anaitwa nani?
