@@ -1,0 +1,3 @@
+[submodule "baselines/modified_tydiqa"]
+	path = baselines/modified_tydiqa
+	url = https://github.com/ffaisal93/modified_tydiqa.git
