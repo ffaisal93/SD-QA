@@ -39,9 +39,85 @@ test/
 - wav_lang: folder containing audio files
 - asr_output_with_metadata_lang.csv: single language specific csv file containing all metadata, transcripts with word error rate for each example instance 
 
+## WER  based evaluation on ASR outputs
 
-## Experiments
-Code to replicate all experiments will be soon released under the `experiments` directory.
+- see [`experiments-wer.ipynb`](https://github.com/ffaisal93/SD-QA/blob/master/experiments/experiments-wer.ipynb)
+
+
+## Baseline-TydiQA 
+We train a tydiqa baseline model for the primary task evaluation. Instead of using the original training data, we use the  `discard_dev` version (SDQA development questions are discarded from the training data).
+
+Available model and training data for download:
+- [Trained checkpoint](https://drive.google.com/drive/folders/1B0JSZW3PWCXAyZCfZBHWkq4Rh0xUJukL?usp=sharing): Downolad to the folder `trained_models/`
+- [Original training/development dataset](https://drive.google.com/drive/folders/1z3G5HJ25m46EykLbt6KkvNPk06wSJs8x?usp=sharing): Download to the folder `tydiqa_data/`
+- [`discard_dev` training dataset](https://drive.google.com/drive/folders/1kSMx07w4FGKRKOtlDLHBVKkLv_HTFuQN?usp=sharing): Download to the folder `tydiqa_data/`
+- [language specific dev dataset replaced with asr output](https://github.com/ffaisal93/SD-QA/tree/master/dev): Can be constructed using [`construct-tydiqa-datafile.ipynb`](https://github.com/ffaisal93/SD-QA/blob/master/experiments/construct-tydiqa-datafile.ipynb)
+- [language specific test dataset replaced with asr output](https://github.com/ffaisal93/SD-QA/tree/master/test): Can be constructed using [`construct-tydiqa-datafile.ipynb`](https://github.com/ffaisal93/SD-QA/blob/master/experiments/construct-tydiqa-datafile.ipynb)
+
+### Experimenting with a primary task baseline
+Detailed steps to train a tydiqa primary task baseline model is [here](https://github.com/ffaisal93/SD-QA/tree/master/baselines/tydiqa/baseline) 
+
+##### prepare the training samples:
+```
+cd baselines/tydiqa/baseline
+```
+```
+python3 baselines/tydiqa/baseline/prepare_tydi_data.py \
+  --input_jsonl=tydiqa_data/tydiqa-v1.0-train-discard-dev.jsonl.gz \
+  --output_tfrecord=tydiqa_data/train_tf/train_samples.tfrecord \
+  --vocab_file=baselines/tydiqa/baseline/mbert_modified_vocab.txt \
+  --record_count_file=tydiqa_data/train_tf/train_samples_record_count.txt \
+  --include_unknowns=0.1 \
+  --is_training=true
+```
+##### prepare dev samples from all language-dialect specific asr outputs
+```
+./experiments/test_prep.sh tydiqa_data/dev tydiqa_data/dev_tf
+```
+##### prepare test samples from all language-dialect specific asr outputs
+```
+./experiments/test_prep.sh tydiqa_data/test tydiqa_data/test_tf
+```
+##### train
+
+```
+python3 baselines/tydiqa/baseline/run_tydi.py \
+  --bert_config_file=mbert_dir/bert_config.json \
+  --vocab_file=baselines/tydiqa/baseline/mbert_modified_vocab.txt \
+  --init_checkpoint=mbert_dir/bert_model.ckpt \
+  --train_records_file=tydiqa_data/train_tf/train_samples.tfrecord \
+  --record_count_file=tydiqa_data/train_tf/train_samples_record_count.txt \
+  --do_train \
+  --output_dir=trained_models/
+```
+
+##### Predict
+
+Once the model is trained, we run inference on the dev/test set:
+
+dev:
+```
+./experiments/test_predict.sh \
+tydiqa_data/dev tydiqa_data/dev_predict tydiqa_data/dev_tf \
+trained_models/model.ckpt discard_dev mbert_dir
+```
+
+test:
+```
+./experiments/test_predict.sh \
+tydiqa_data/test tydiqa_data/test_predict tydiqa_data/test_tf \
+trained_models/model.ckpt discard_dev mbert_dir
+```
+
+
+- to point the trained checkpoint at `--init_checkpoint`, write correct location inplace of `trained_models/model.ckpt`
+- write downloaded mbert location inplace of `mbert_dir`
+
+
+##### Evaluate
+- see [`tydiqa_evaluation.ipynb`](https://github.com/ffaisal93/SD-QA/blob/master/experiments/tydiqa_evaluation.ipynb)
+
+
 ## Citation
 If you use SD-QA, please cite the "[SD-QA: Spoken Dialectal Question Answering for the Real World](https://cs.gmu.edu/~antonis/publication/faisal-etal-21-sdqa/SD-QA.pdf)". You can use the following BibTeX entry
 ~~~
