@@ -118,14 +118,26 @@ trained_models/model.ckpt discard_dev mbert_dir
 
 
 ## Citation
-If you use SD-QA, please cite the "[SD-QA: Spoken Dialectal Question Answering for the Real World](https://cs.gmu.edu/~antonis/publication/faisal-etal-21-sdqa/SD-QA.pdf)". You can use the following BibTeX entry
+If you use SD-QA, please cite the "[SD-QA: Spoken Dialectal Question Answering for the Real World](https://arxiv.org/abs/2109.12072)". You can use the following BibTeX entry
 ~~~
-@misc{faisal-etal-21-sdqa,
+@inproceedings{faisal-etal-21-sdqa,
  title = {{SD-QA}: {S}poken {D}ialectal {Q}uestion {A}nswering for the {R}eal {W}orld},
   author = {Faisal, Fahim and Keshava, Sharlina and ibn Alam, Md Mahfuz and Anastasopoulos, Antonios},
-  url={https://cs.gmu.edu/~antonis/publication/faisal-etal-21-sdqa/SD-QA.pdf},
+  url={https://arxiv.org/abs/2109.12072},
   year = {2021},
-  note = {preprint}
+  booktitle = {Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings)},
+  publisher = {Association for Computational Linguistics},
+  month = {November},
+}
+~~~
+
+We built our augmented dataset and baselines on top of TydiQA. Kindly also make sure to cite the original TyDi QA paper,
+~~~
+@article{tydiqa,
+title   = {TyDi QA: A Benchmark for Information-Seeking Question Answering in Typologically Diverse Languages},
+author  = {Jonathan H. Clark and Eunsol Choi and Michael Collins and Dan Garrette and Tom Kwiatkowski and Vitaly Nikolaev and Jennimaria Palomaki}
+journal = {TACL},
+year    = {2020}
 }
 ~~~
 
