@@ -1,4 +1,4 @@
-,index,arabic-gold,egy-ar-EG,dza-ar-DZ,mar-ar-MA,sau-ar-SA,bhr-ar-BH,tun-ar-TN,jor-ar-JO
+,example_id,arabic-gold,egy-ar-EG,dza-ar-DZ,mar-ar-MA,sau-ar-SA,bhr-ar-BH,tun-ar-TN,jor-ar-JO
 0,2731616829613113346,"q_text: من هو نواز شريف؟ ?
 gold_offset: 154, 267
 pred_offset: 95 267
