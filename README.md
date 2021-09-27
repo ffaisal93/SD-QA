@@ -43,6 +43,8 @@ test/
 
 - see [`experiments-wer.ipynb`](https://github.com/ffaisal93/SD-QA/blob/master/experiments/experiments-wer.ipynb)
 
+## Comparative minimal answer predictions for Error analysis 
+- see [`error_analysis`](https://github.com/ffaisal93/SD-QA/tree/master/tydiqa_data/error_analysis)
 
 ## Baseline-TydiQA 
 We train a tydiqa baseline model for the primary task evaluation. Instead of using the original training data, we use the  `discard_dev` version (SDQA development questions are discarded from the training data).
@@ -58,9 +60,6 @@ Available model and training data for download:
 Detailed steps to train a tydiqa primary task baseline model is [here](https://github.com/ffaisal93/SD-QA/tree/master/baselines/tydiqa/baseline) 
 
 ##### prepare the training samples:
-```
-cd baselines/tydiqa/baseline
-```
 ```
 python3 baselines/tydiqa/baseline/prepare_tydi_data.py \
   --input_jsonl=tydiqa_data/tydiqa-v1.0-train-discard-dev.jsonl.gz \
