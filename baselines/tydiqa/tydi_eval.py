@@ -246,6 +246,96 @@ def byte_slice(text, start, end):
       return str(byte_str[start:end])
 
 
+def save_minimal(gold_annotation_dict, pred_dict, lang):
+  gold_id_set = set(gold_annotation_dict.keys())
+  pred_id_set = set(pred_dict.keys())
+
+  unpredicted = gold_id_set - pred_id_set
+  unexpected = pred_id_set - gold_id_set
+
+  passage_answer_stats = []
+  minimal_answer_stats = []
+  example_count = 0
+  log_rec = []
+  passage_id = {}
+  minimal_id = {}
+  min_f1_1={}
+  min_f1={}
+  p_f1={}
+  real_examples = 0
+
+  for example_id in gold_id_set:
+    example_count += 1
+    gold = gold_annotation_dict[example_id]
+    pred = pred_dict.get(example_id)
+    passage_answer_stats.append(
+        score_passage_answer(gold, pred, FLAGS.passage_non_null_threshold))
+    minimal_answer_stats.append(
+        score_minimal_answer(gold, pred, FLAGS.minimal_non_null_threshold))
+    passage_id[example_id]=score_passage_answer(gold, pred, FLAGS.passage_non_null_threshold)
+    minimal_id[example_id]=score_minimal_answer(gold, pred, FLAGS.minimal_non_null_threshold)
+
+    if not FLAGS.verbose:
+      continue
+    if pred is None:
+      continue
+    pred_min_start = pred.minimal_answer_span.start_byte_offset
+    pred_min_end = pred.minimal_answer_span.end_byte_offset
+    gold_min_start = gold[0].minimal_answer_span.start_byte_offset
+    gold_min_end = gold[0].minimal_answer_span.end_byte_offset
+    if gold_min_start >= 0:
+      real_examples+=1
+      logging.info('---')
+      logging.info(gold[0].example_id)
+      logging.info(gold[0].question_text)
+      logging.info('gold offsets %d, %d', gold_min_start, gold_min_end)
+      logging.info('pred offsets %d, %d', pred_min_start, pred_min_end)
+      logging.info('gold answer: (%s)',
+                   byte_slice(gold[0].plaintext, gold_min_start, gold_min_end))
+      logging.info('pred answer: (%s)',
+                   byte_slice(gold[0].plaintext, pred_min_start, pred_min_end))
+      logging.info('score %.2f', minimal_answer_stats[-1][-1])
+      logging.info('f1: %.2f, p: %.2f, r: %.2f',
+                   minimal_answer_stats[-1][-2][2],
+                   minimal_answer_stats[-1][-2][0],
+                   minimal_answer_stats[-1][-2][1])
+      #for custom log dump
+      p_f1[gold[0].example_id]=passage_answer_stats[-1][-1]
+      min_f1_1[gold[0].example_id]=minimal_answer_stats[-1][-2][2]
+      min_f1[gold[0].example_id]={'q':gold[0].question_text, 
+                                  'f1':minimal_answer_stats[-1][-2][2]}
+      p_f1[gold[0].example_id]={'q':gold[0].question_text, 
+                                  'f1':minimal_answer_stats[-1][-2][2]}
+      log_r = "'{}'\nq_text: {}\ngold_offset: {}, {}\npred_offset: {} {}\n\
+gold_answer: {}\npred_answer: {}\nscore: {}\nf1: {:.2f} p: {:.2f} r: {:.2f}\n".format(
+                gold[0].example_id, gold[0].question_text, 
+                gold_min_start, gold_min_end,
+                pred_min_start, pred_min_end,
+                byte_slice(gold[0].plaintext, gold_min_start, gold_min_end),
+                byte_slice(gold[0].plaintext, pred_min_start, pred_min_end),
+                minimal_answer_stats[-1][-1],
+                minimal_answer_stats[-1][-2][2],
+                minimal_answer_stats[-1][-2][0],
+                minimal_answer_stats[-1][-2][1]
+                )
+      log_rec.append(log_r)
+  # dump log into pickle
+  with open(FLAGS.log_dir+'-'+lang+'.pickle', 'wb') as f:
+    pickle.dump(log_rec, f)
+    logging.info("log data saved in {}".format(FLAGS.log_dir+'-'+lang+'.pickle'))
+  
+  # with open(FLAGS.log_dir+'-'+lang+'-f1.pickle', 'wb') as f:
+  #   pickle.dump(min_f1, f)
+  #   logging.info("f1 data saved in {}".format(FLAGS.log_dir+'-'+lang+'-f1.pickle'))
+  # logging.info('example_count:{}, real_examples:{}'.format(example_count, real_examples))
+
+  return p_f1, min_f1_1
+
+  # use the 'score' column, which is last
+  # passage_answer_stats.sort(key=lambda x: x[-1], reverse=True)
+  # minimal_answer_stats.sort(key=lambda x: x[-1], reverse=True)
+  
+
 def score_answers(gold_annotation_dict, pred_dict):
   """Scores all answers for all documents.
 
@@ -275,18 +365,19 @@ def score_answers(gold_annotation_dict, pred_dict):
   minimal_answer_stats = []
   example_count = 0
   log_rec = []
-  passage_id = {}
-  minimal_id = {}
+  passage_id = []
+  minimal_id = []
+  min_f1={}
   for example_id in gold_id_set:
     example_count += 1
     gold = gold_annotation_dict[example_id]
     pred = pred_dict.get(example_id)
     passage_answer_stats.append(
         score_passage_answer(gold, pred, FLAGS.passage_non_null_threshold))
+    passage_id.append((example_id,score_passage_answer(gold, pred, FLAGS.passage_non_null_threshold)))
     minimal_answer_stats.append(
         score_minimal_answer(gold, pred, FLAGS.minimal_non_null_threshold))
-    passage_id[example_id]=score_passage_answer(gold, pred, FLAGS.passage_non_null_threshold)
-    minimal_id[example_id]=score_minimal_answer(gold, pred, FLAGS.minimal_non_null_threshold)
+    minimal_id.append((example_id,score_minimal_answer(gold, pred, FLAGS.minimal_non_null_threshold)))
 
     if not FLAGS.verbose:
       continue
@@ -312,6 +403,8 @@ def score_answers(gold_annotation_dict, pred_dict):
                    minimal_answer_stats[-1][-2][0],
                    minimal_answer_stats[-1][-2][1])
       #for custom log dump
+      min_f1[gold[0].example_id]={'q':gold[0].question_text, 
+                                  'f1':minimal_answer_stats[-1][-2][2]}
       log_r = "'{}'\nq_text: {}\ngold_offset: {}, {}\npred_offset: {} {}\n\
 gold_answer: {}\npred_answer: {}\nscore: {}\nf1: {:.2f} p: {:.2f} r: {:.2f}\n".format(
                 gold[0].example_id, gold[0].question_text, 
@@ -326,12 +419,18 @@ gold_answer: {}\npred_answer: {}\nscore: {}\nf1: {:.2f} p: {:.2f} r: {:.2f}\n".f
                 )
       log_rec.append(log_r)
   # dump log into pickle
-  with open(FLAGS.log_dir, 'wb') as f:
-    pickle.dump(log_rec, f)
-    logging.info("log data saved in {}".format(FLAGS.log_dir))
+  # with open(FLAGS.log_dir, 'wb') as f:
+  #   pickle.dump(log_rec, f)
+  #   logging.info("log data saved in {}".format(FLAGS.log_dir))
+  
+  # with open(FLAGS.log_dir+'-f1.pickle', 'wb') as f:
+  #   pickle.dump(min_f1, f)
+  #   logging.info("f1 data saved in {}".format(FLAGS.log_dir+'-f1.pickle'))
   # use the 'score' column, which is last
   passage_answer_stats.sort(key=lambda x: x[-1], reverse=True)
+  passage_id.sort(key=lambda x: x[1][-1], reverse=True)
   minimal_answer_stats.sort(key=lambda x: x[-1], reverse=True)
+  minimal_id.sort(key=lambda x: x[1][-1], reverse=True)
   return passage_answer_stats, minimal_answer_stats, passage_id, minimal_id
 
 
@@ -464,7 +563,7 @@ def compute_pr_curves(answer_stats, targets=None):
           list(zip(targets, max_recall, max_precision, max_scores)))
 
 
-def compute_id_f1(answer_stats, targets=None):
+def compute_id_f1(ex_ids, answer_stats, targets=None):
   """Computes PR curve and returns R@P for specific targets.
 
   The values are computed as follows: find the (precision, recall) point
@@ -487,7 +586,7 @@ def compute_id_f1(answer_stats, targets=None):
   total_has_gold = 0
 
   # Count the number of gold annotations.
-  for has_gold, _, _, _ in answer_stats.values():
+  for has_gold, _, _, _ in answer_stats:
     total_has_gold += has_gold
 
   # Keep track of the point of maximum recall for each target.
@@ -501,7 +600,7 @@ def compute_id_f1(answer_stats, targets=None):
 
   # Loop through every possible threshold and compute precision + recall.
 
-  for key, (has_gold, has_pred, is_correct_or_f1, score) in answer_stats.items():
+  for has_gold, has_pred, is_correct_or_f1, score in answer_stats:
     if isinstance(is_correct_or_f1, tuple):
       _, _, f1 = is_correct_or_f1
     else:
@@ -514,7 +613,7 @@ def compute_id_f1(answer_stats, targets=None):
 
     # If there are any ties, this will be updated multiple times until the
     # ties are all counted.
-    scores_to_stats[score] = [precision, recall, key]
+    scores_to_stats[score] = [precision, recall]
 
 
 
@@ -522,9 +621,9 @@ def compute_id_f1(answer_stats, targets=None):
   best_precision = 0.0
   best_recall = 0.0
   best_threshold = 0.0
-
-  id_f1={}
-  for threshold, (precision, recall, key) in scores_to_stats.items():
+  all_ids={}
+  count=0
+  for threshold, (precision, recall) in scores_to_stats.items():
     # Match the thresholds to the find the closest precision above some target.
     for t, target in enumerate(targets):
       if precision >= target and recall > max_recall[t]:
@@ -534,14 +633,16 @@ def compute_id_f1(answer_stats, targets=None):
 
     # Compute optimal threshold.
     f1 = eval_utils.safe_divide(2 * precision * recall, precision + recall)
-    id_f1[key]=f1
+    all_ids[ex_ids[count]]=f1
+    count+=1
     if f1 > best_f1:
       best_f1 = f1
       best_precision = precision
       best_recall = recall
       best_threshold = threshold
 
-  return id_f1
+  return all_ids
+
 
 
 def print_r_at_p_table(answer_stats):
@@ -655,13 +756,19 @@ def main(_):
       'swahili', 'korean', 'russian', 'telugu', 'thai', 'english-arabic',
       'english-bengali', 'english-swahili', 'english-korean'
   ]
+  all_min={}
+  all_pass={}
   for lang in language_list:
     if lang in per_lang_pred:
       passage_answer_stats, minimal_answer_stats, passage_id, minimal_id = score_answers(
           per_lang_gold.get(lang, {}), per_lang_pred[lang])
+      ps,ms=save_minimal(per_lang_gold.get(lang, {}), per_lang_pred[lang],lang)
 
       # Passage selection task
       opt_result, _ = compute_pr_curves(passage_answer_stats,  targets=[0.5])
+      exids,statss = map(list, zip(*passage_id))
+      pass_f1 = compute_id_f1(exids, statss, targets=[0.5])
+      maxval=max(pass_f1.values())
       f1, precision, recall, _ = opt_result
       if lang != 'english':
         macro_avg_passage_scores[0].append(f1)
@@ -671,6 +778,9 @@ def main(_):
 
       # Minimal answer span task
       opt_result, _ = compute_pr_curves(minimal_answer_stats, targets=[0.5])
+      exids,statss = map(list, zip(*minimal_id))
+      min_f1 = compute_id_f1(exids, statss, targets=[0.5])
+      maxval=max(min_f1.values())
       f1, precision, recall, _ = opt_result
       if lang != 'english':
         macro_avg_minimal_scores[0].append(f1)
@@ -679,16 +789,9 @@ def main(_):
       print('Minimal Answer & ' + lang + ' & ' +
             get_latex_str(f1, precision, recall))
       
-      pass_f1 = compute_id_f1(passage_id, targets=[0.5])
-      min_f1 = compute_id_f1(minimal_id, targets=[0.5])
-      p_file = 'passage|'+'|'.join(FLAGS.predictions_path.split('/')[1:])+'.pickle'
-      m_file = 'minimal|'+'|'.join(FLAGS.predictions_path.split('/')[1:])+'.pickle'
-      print(p_file, m_file)
-      import pickle
-      with open('../f1_files/'+p_file,'wb') as f:
-          pickle.dump(pass_f1,f)
-      with open('../f1_files/'+m_file,'wb') as f:
-          pickle.dump(min_f1,f)
+      
+      all_min[lang] = min_f1
+      all_pass[lang] = pass_f1
 
       if FLAGS.pretty_print:
         print('*' * 20)
@@ -704,9 +807,16 @@ def main(_):
         metrics = get_metrics_with_answer_stats(passage_answer_stats,
                                                 minimal_answer_stats)
         print(json.dumps(metrics))
-
-  print('Total # examples in gold: %d, # ex. in pred: %d (including english)' %
-        (len(tydi_gold_dict), len(tydi_pred_dict)))
+  import pickle
+  p_file = 'passage|'+'|'.join(FLAGS.predictions_path.split('/')[1:])+'.pickle'
+  m_file = 'minimal|'+'|'.join(FLAGS.predictions_path.split('/')[1:])+'.pickle'
+  print(p_file, m_file)
+  # with open('../f1_files/'+p_file,'wb') as f:
+  #     pickle.dump(all_pass,f)
+  # with open('../f1_files/'+m_file,'wb') as f:
+  #     pickle.dump(all_min,f)
+  # print('Total # examples in gold: %d, # ex. in pred: %d (including english)' %
+  #       (len(tydi_gold_dict), len(tydi_pred_dict)))
 
   f1_list, precision_list, recall_list = macro_avg_passage_scores
   print('*** Macro Over %d Languages, excluding English **' % len(f1_list))
