@@ -1,0 +1,579 @@
+DETAILED DATA LINK REPORT - ALL SPLITS, LANGUAGES, AND DIALECTS
+==========================================================================================
+
+TEST SPLIT
+==========================================================================================
+
+Language: ara
+------------------------------------------------------------------------------------------
+  Dialect: bhr
+  JSONL Files:
+    BH: arabic.test.bhr-ar-BH.jsonl.gz - 1379 IDs
+  TXT Files:
+    BH: arabic.test.bhr-ar-BH.txt - 1380 IDs
+  Metadata: 1380 IDs
+  Audio: 1380 files
+  Issues:
+    - BH: Count mismatch - JSONL has 1379, TXT has 1380
+    - BH TXT: 1 IDs not in any JSONL file
+
+  Dialect: dza
+  JSONL Files:
+    DZ: arabic.test.dza-ar-DZ.jsonl.gz - 1367 IDs
+  TXT Files:
+    DZ: arabic.test.dza-ar-DZ.txt - 1380 IDs
+  Metadata: 1380 IDs
+  Audio: 1380 files
+  Issues:
+    - DZ: Count mismatch - JSONL has 1367, TXT has 1380
+    - DZ TXT: 13 IDs not in any JSONL file
+
+  Dialect: egy
+  JSONL Files:
+    EG: arabic.test.egy-ar-EG.jsonl.gz - 1380 IDs
+  TXT Files:
+    EG: arabic.test.egy-ar-EG.txt - 1380 IDs
+  Metadata: 1380 IDs
+  Audio: 1380 files
+  Issues: None
+
+  Dialect: jor
+  JSONL Files:
+    JO: arabic.test.jor-ar-JO.jsonl.gz - 1368 IDs
+  TXT Files:
+    JO: arabic.test.jor-ar-JO.txt - 1380 IDs
+  Metadata: 1380 IDs
+  Audio: 1380 files
+  Issues:
+    - JO: Count mismatch - JSONL has 1368, TXT has 1380
+    - JO TXT: 12 IDs not in any JSONL file
+
+  Dialect: mar
+  JSONL Files:
+    MA: arabic.test.mar-ar-MA.jsonl.gz - 1356 IDs
+  TXT Files:
+    MA: arabic.test.mar-ar-MA.txt - 1380 IDs
+  Metadata: 1380 IDs
+  Audio: 1380 files
+  Issues:
+    - MA: Count mismatch - JSONL has 1356, TXT has 1380
+    - MA TXT: 24 IDs not in any JSONL file
+
+  Dialect: sau
+  JSONL Files:
+    SA: arabic.test.sau-ar-SA.jsonl.gz - 1380 IDs
+  TXT Files:
+    SA: arabic.test.sau-ar-SA.txt - 1380 IDs
+  Metadata: 1380 IDs
+  Audio: 1380 files
+  Issues: None
+
+  Dialect: tun
+  JSONL Files:
+    TN: arabic.test.tun-ar-TN.jsonl.gz - 1365 IDs
+  TXT Files:
+    TN: arabic.test.tun-ar-TN.txt - 1380 IDs
+  Metadata: 1380 IDs
+  Audio: 1380 files
+  Issues:
+    - TN: Count mismatch - JSONL has 1365, TXT has 1380
+    - TN TXT: 15 IDs not in any JSONL file
+
+
+Language: ben
+------------------------------------------------------------------------------------------
+  Dialect: dhaka
+  JSONL Files:
+    BD: bengali.test.dhaka-bn-BD.jsonl.gz - 328 IDs
+    IN: bengali.test.dhaka-bn-IN.jsonl.gz - 328 IDs
+  TXT Files:
+    BD: bengali.test.dhaka-bn-BD.txt - 328 IDs
+    IN: bengali.test.dhaka-bn-IN.txt - 328 IDs
+  Metadata: 328 IDs
+  Audio: 328 files
+  Issues: None
+
+  Dialect: ind
+  JSONL Files:
+    BD: bengali.test.ind-bn-BD.jsonl.gz - 326 IDs
+    IN: bengali.test.ind-bn-IN.jsonl.gz - 326 IDs
+  TXT Files:
+    BD: bengali.test.ind-bn-BD.txt - 326 IDs
+    IN: bengali.test.ind-bn-IN.txt - 326 IDs
+  Metadata: 326 IDs
+  Audio: 326 files
+  Issues: None
+
+
+Language: eng
+------------------------------------------------------------------------------------------
+  Dialect: aus
+  JSONL Files:
+    AU: english.test.aus-en-AU.jsonl.gz - 1031 IDs
+    US: english.test.aus-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    AU: english.test.aus-en-AU.txt - 1031 IDs
+    US: english.test.aus-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+  Dialect: gbr
+  JSONL Files:
+    GB: english.test.gbr-en-GB.jsonl.gz - 1031 IDs
+    US: english.test.gbr-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    GB: english.test.gbr-en-GB.txt - 1031 IDs
+    US: english.test.gbr-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+  Dialect: ind_n
+  JSONL Files:
+    IN: english.test.ind_n-en-IN.jsonl.gz - 1031 IDs
+    US: english.test.ind_n-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    IN: english.test.ind_n-en-IN.txt - 1031 IDs
+    US: english.test.ind_n-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+  Dialect: ind_s
+  JSONL Files:
+    IN: english.test.ind_s-en-IN.jsonl.gz - 1027 IDs
+    US: english.test.ind_s-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    IN: english.test.ind_s-en-IN.txt - 1031 IDs
+    US: english.test.ind_s-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues:
+    - IN: Count mismatch - JSONL has 1027, TXT has 1031
+
+  Dialect: irl
+  JSONL Files:
+    IE: english.test.irl-en-IE.jsonl.gz - 1031 IDs
+    US: english.test.irl-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    IE: english.test.irl-en-IE.txt - 1031 IDs
+    US: english.test.irl-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+  Dialect: kenya
+  JSONL Files:
+    KE: english.test.kenya-en-KE.jsonl.gz - 974 IDs
+    US: english.test.kenya-en-US.jsonl.gz - 974 IDs
+  TXT Files:
+    KE: english.test.kenya-en-KE.txt - 976 IDs
+    US: english.test.kenya-en-US.txt - 976 IDs
+  Metadata: 976 IDs
+  Audio: 976 files
+  Issues:
+    - KE: Count mismatch - JSONL has 974, TXT has 976
+    - US: Count mismatch - JSONL has 974, TXT has 976
+    - KE TXT: 2 IDs not in any JSONL file
+    - US TXT: 2 IDs not in any JSONL file
+
+  Dialect: nga
+  JSONL Files:
+    NG: english.test.nga-en-NG.jsonl.gz - 1031 IDs
+    US: english.test.nga-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    NG: english.test.nga-en-NG.txt - 1031 IDs
+    US: english.test.nga-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+  Dialect: nzl
+  JSONL Files:
+    NZ: english.test.nzl-en-NZ.jsonl.gz - 1031 IDs
+    US: english.test.nzl-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    NZ: english.test.nzl-en-NZ.txt - 1031 IDs
+    US: english.test.nzl-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+  Dialect: phl
+  JSONL Files:
+    PH: english.test.phl-en-PH.jsonl.gz - 1031 IDs
+    US: english.test.phl-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    PH: english.test.phl-en-PH.txt - 1031 IDs
+    US: english.test.phl-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+  Dialect: usa
+  JSONL Files:
+    US: english.test.usa-en-US.jsonl.gz - 1031 IDs
+  TXT Files:
+    US: english.test.usa-en-US.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+  Dialect: zaf
+  JSONL Files:
+    US: english.test.zaf-en-US.jsonl.gz - 1031 IDs
+    ZA: english.test.zaf-en-ZA.jsonl.gz - 1031 IDs
+  TXT Files:
+    US: english.test.zaf-en-US.txt - 1031 IDs
+    ZA: english.test.zaf-en-ZA.txt - 1031 IDs
+  Metadata: 1031 IDs
+  Audio: 1031 files
+  Issues: None
+
+
+Language: kor
+------------------------------------------------------------------------------------------
+  Dialect: korn
+  JSONL Files:
+    KR: korean.test.korn-ko-KR.jsonl.gz - 1696 IDs
+  TXT Files:
+    KR: korean.test.korn-ko-KR.txt - 1697 IDs
+  Metadata: 1697 IDs
+  Audio: 1697 files
+  Issues:
+    - KR: Count mismatch - JSONL has 1696, TXT has 1697
+    - KR TXT: 1 IDs not in any JSONL file
+
+  Dialect: kors
+  JSONL Files:
+    KR: korean.test.kors-ko-KR.jsonl.gz - 1697 IDs
+  TXT Files:
+    KR: korean.test.kors-ko-KR.txt - 1697 IDs
+  Metadata: 1697 IDs
+  Audio: 1697 files
+  Issues: None
+
+
+Language: swa
+------------------------------------------------------------------------------------------
+  Dialect: kenya
+  JSONL Files:
+    KE: swahili.test.kenya-sw-KE.jsonl.gz - 2375 IDs
+    TZ: swahili.test.kenya-sw-TZ.jsonl.gz - 2375 IDs
+  TXT Files:
+    KE: swahili.test.kenya-sw-KE.txt - 2383 IDs
+    TZ: swahili.test.kenya-sw-TZ.txt - 2383 IDs
+  Metadata: 2383 IDs
+  Audio: 2383 files
+  Issues:
+    - TZ: Count mismatch - JSONL has 2375, TXT has 2383
+    - KE: Count mismatch - JSONL has 2375, TXT has 2383
+    - KE TXT: 8 IDs not in any JSONL file
+    - TZ TXT: 8 IDs not in any JSONL file
+
+  Dialect: tanzania
+  JSONL Files:
+    KE: swahili.test.tanzania-sw-KE.jsonl.gz - 2330 IDs
+    TZ: swahili.test.tanzania-sw-TZ.jsonl.gz - 2330 IDs
+  TXT Files:
+    KE: swahili.test.tanzania-sw-KE.txt - 2330 IDs
+    TZ: swahili.test.tanzania-sw-TZ.txt - 2330 IDs
+  Metadata: 2325 IDs
+  Audio: 2330 files
+  Issues:
+    - Metadata: 5 JSONL IDs missing from metadata.csv
+
+
+
+DEV SPLIT
+==========================================================================================
+
+Language: ara
+------------------------------------------------------------------------------------------
+  Dialect: bhr
+  JSONL Files:
+    BH: arabic.dev.bhr-ar-BH.jsonl.gz - 708 IDs
+  TXT Files:
+    BH: arabic.dev.bhr-ar-BH.txt - 708 IDs
+  Metadata: 708 IDs
+  Audio: 708 files
+  Issues: None
+
+  Dialect: dza
+  JSONL Files:
+    DZ: arabic.dev.dza-ar-DZ.jsonl.gz - 687 IDs
+  TXT Files:
+    DZ: arabic.dev.dza-ar-DZ.txt - 708 IDs
+  Metadata: 708 IDs
+  Audio: 708 files
+  Issues:
+    - DZ: Count mismatch - JSONL has 687, TXT has 708
+    - DZ TXT: 21 IDs not in any JSONL file
+
+  Dialect: egy
+  JSONL Files:
+    EG: arabic.dev.egy-ar-EG.jsonl.gz - 708 IDs
+  TXT Files:
+    EG: arabic.dev.egy-ar-EG.txt - 708 IDs
+  Metadata: 708 IDs
+  Audio: 708 files
+  Issues: None
+
+  Dialect: jor
+  JSONL Files:
+    JO: arabic.dev.jor-ar-JO.jsonl.gz - 708 IDs
+  TXT Files:
+    JO: arabic.dev.jor-ar-JO.txt - 708 IDs
+  Metadata: 708 IDs
+  Audio: 708 files
+  Issues: None
+
+  Dialect: mar
+  JSONL Files:
+    MA: arabic.dev.mar-ar-MA.jsonl.gz - 707 IDs
+  TXT Files:
+    MA: arabic.dev.mar-ar-MA.txt - 708 IDs
+  Metadata: 708 IDs
+  Audio: 708 files
+  Issues:
+    - MA: Count mismatch - JSONL has 707, TXT has 708
+    - MA TXT: 1 IDs not in any JSONL file
+
+  Dialect: sau
+  JSONL Files:
+    SA: arabic.dev.sau-ar-SA.jsonl.gz - 707 IDs
+  TXT Files:
+    SA: arabic.dev.sau-ar-SA.txt - 708 IDs
+  Metadata: 708 IDs
+  Audio: 708 files
+  Issues:
+    - SA: Count mismatch - JSONL has 707, TXT has 708
+    - SA TXT: 1 IDs not in any JSONL file
+
+  Dialect: tun
+  JSONL Files:
+    TN: arabic.dev.tun-ar-TN.jsonl.gz - 706 IDs
+  TXT Files:
+    TN: arabic.dev.tun-ar-TN.txt - 708 IDs
+  Metadata: 708 IDs
+  Audio: 708 files
+  Issues:
+    - TN: Count mismatch - JSONL has 706, TXT has 708
+    - TN TXT: 2 IDs not in any JSONL file
+
+
+Language: ben
+------------------------------------------------------------------------------------------
+  Dialect: dhaka
+  JSONL Files:
+    BD: bengali.dev.dhaka-bn-BD.jsonl.gz - 427 IDs
+    IN: bengali.dev.dhaka-bn-IN.jsonl.gz - 427 IDs
+  TXT Files:
+    BD: bengali.dev.dhaka-bn-BD.txt - 427 IDs
+    IN: bengali.dev.dhaka-bn-IN.txt - 427 IDs
+  Metadata: 427 IDs
+  Audio: 427 files
+  Issues: None
+
+  Dialect: ind
+  JSONL Files:
+    BD: bengali.dev.ind-bn-BD.jsonl.gz - 427 IDs
+    IN: bengali.dev.ind-bn-IN.jsonl.gz - 427 IDs
+  TXT Files:
+    BD: bengali.dev.ind-bn-BD.txt - 427 IDs
+    IN: bengali.dev.ind-bn-IN.txt - 427 IDs
+  Metadata: 427 IDs
+  Audio: 427 files
+  Issues: None
+
+
+Language: eng
+------------------------------------------------------------------------------------------
+  Dialect: aus
+  JSONL Files:
+    AU: english.dev.aus-en-AU.jsonl.gz - 1000 IDs
+    US: english.dev.aus-en-US.jsonl.gz - 1000 IDs
+  TXT Files:
+    AU: english.dev.aus-en-AU.txt - 1000 IDs
+    US: english.dev.aus-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues: None
+
+  Dialect: gbr
+  JSONL Files:
+    GB: english.dev.gbr-en-GB.jsonl.gz - 1000 IDs
+    US: english.dev.gbr-en-US.jsonl.gz - 1000 IDs
+  TXT Files:
+    GB: english.dev.gbr-en-GB.txt - 1000 IDs
+    US: english.dev.gbr-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues: None
+
+  Dialect: ind_n
+  JSONL Files:
+    IN: english.dev.ind_n-en-IN.jsonl.gz - 1000 IDs
+    US: english.dev.ind_n-en-US.jsonl.gz - 1000 IDs
+  TXT Files:
+    IN: english.dev.ind_n-en-IN.txt - 1000 IDs
+    US: english.dev.ind_n-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues: None
+
+  Dialect: ind_s
+  JSONL Files:
+    IN: english.dev.ind_s-en-IN.jsonl.gz - 1000 IDs
+    US: english.dev.ind_s-en-US.jsonl.gz - 999 IDs
+  TXT Files:
+    IN: english.dev.ind_s-en-IN.txt - 1000 IDs
+    US: english.dev.ind_s-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues:
+    - US: Count mismatch - JSONL has 999, TXT has 1000
+
+  Dialect: irl
+  JSONL Files:
+    IE: english.dev.irl-en-IE.jsonl.gz - 1000 IDs
+    US: english.dev.irl-en-US.jsonl.gz - 1000 IDs
+  TXT Files:
+    IE: english.dev.irl-en-IE.txt - 1000 IDs
+    US: english.dev.irl-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues: None
+
+  Dialect: kenya
+  JSONL Files:
+    KE: english.dev.kenya-en-KE.jsonl.gz - 972 IDs
+    US: english.dev.kenya-en-US.jsonl.gz - 972 IDs
+  TXT Files:
+    KE: english.dev.kenya-en-KE.txt - 972 IDs
+    US: english.dev.kenya-en-US.txt - 972 IDs
+  Metadata: 972 IDs
+  Audio: 972 files
+  Issues: None
+
+  Dialect: nga
+  JSONL Files:
+    NG: english.dev.nga-en-NG.jsonl.gz - 1000 IDs
+    US: english.dev.nga-en-US.jsonl.gz - 1000 IDs
+  TXT Files:
+    NG: english.dev.nga-en-NG.txt - 1000 IDs
+    US: english.dev.nga-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues: None
+
+  Dialect: nzl
+  JSONL Files:
+    NZ: english.dev.nzl-en-NZ.jsonl.gz - 998 IDs
+    US: english.dev.nzl-en-US.jsonl.gz - 998 IDs
+  TXT Files:
+    NZ: english.dev.nzl-en-NZ.txt - 1000 IDs
+    US: english.dev.nzl-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues:
+    - NZ: Count mismatch - JSONL has 998, TXT has 1000
+    - US: Count mismatch - JSONL has 998, TXT has 1000
+    - NZ TXT: 2 IDs not in any JSONL file
+    - US TXT: 2 IDs not in any JSONL file
+
+  Dialect: phl
+  JSONL Files:
+    PH: english.dev.phl-en-PH.jsonl.gz - 1000 IDs
+    US: english.dev.phl-en-US.jsonl.gz - 999 IDs
+  TXT Files:
+    PH: english.dev.phl-en-PH.txt - 1000 IDs
+    US: english.dev.phl-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues:
+    - US: Count mismatch - JSONL has 999, TXT has 1000
+
+  Dialect: usa
+  JSONL Files:
+    US: english.dev.usa-en-US.jsonl.gz - 1000 IDs
+  TXT Files:
+    US: english.dev.usa-en-US.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues: None
+
+  Dialect: zaf
+  JSONL Files:
+    US: english.dev.zaf-en-US.jsonl.gz - 999 IDs
+    ZA: english.dev.zaf-en-ZA.jsonl.gz - 999 IDs
+  TXT Files:
+    US: english.dev.zaf-en-US.txt - 1000 IDs
+    ZA: english.dev.zaf-en-ZA.txt - 1000 IDs
+  Metadata: 1000 IDs
+  Audio: 1000 files
+  Issues:
+    - ZA: Count mismatch - JSONL has 999, TXT has 1000
+    - US: Count mismatch - JSONL has 999, TXT has 1000
+    - US TXT: 1 IDs not in any JSONL file
+    - ZA TXT: 1 IDs not in any JSONL file
+
+
+Language: kor
+------------------------------------------------------------------------------------------
+  Dialect: korn
+  JSONL Files:
+    KR: korean.dev.korn-ko-KR.jsonl.gz - 371 IDs
+  TXT Files:
+    KR: korean.dev.korn-ko-KR.txt - 371 IDs
+  Metadata: 371 IDs
+  Audio: 371 files
+  Issues: None
+
+  Dialect: kors
+  JSONL Files:
+    KR: korean.dev.kors-ko-KR.jsonl.gz - 370 IDs
+  TXT Files:
+    KR: korean.dev.kors-ko-KR.txt - 371 IDs
+  Metadata: 371 IDs
+  Audio: 371 files
+  Issues:
+    - KR: Count mismatch - JSONL has 370, TXT has 371
+    - KR TXT: 1 IDs not in any JSONL file
+
+
+Language: swa
+------------------------------------------------------------------------------------------
+  Dialect: kenya
+  JSONL Files:
+    KE: swahili.dev.kenya-sw-KE.jsonl.gz - 1822 IDs
+    TZ: swahili.dev.kenya-sw-TZ.jsonl.gz - 1822 IDs
+  TXT Files:
+    KE: swahili.dev.kenya-sw-KE.txt - 1825 IDs
+    TZ: swahili.dev.kenya-sw-TZ.txt - 1825 IDs
+  Metadata: 1825 IDs
+  Audio: 1825 files
+  Issues:
+    - TZ: Count mismatch - JSONL has 1822, TXT has 1825
+    - KE: Count mismatch - JSONL has 1822, TXT has 1825
+    - TZ TXT: 3 IDs not in any JSONL file
+    - KE TXT: 3 IDs not in any JSONL file
+
+  Dialect: tanzania
+  JSONL Files:
+    KE: swahili.dev.tanzania-sw-KE.jsonl.gz - 1795 IDs
+    TZ: swahili.dev.tanzania-sw-TZ.jsonl.gz - 1795 IDs
+  TXT Files:
+    KE: swahili.dev.tanzania-sw-KE.txt - 1800 IDs
+    TZ: swahili.dev.tanzania-sw-TZ.txt - 1800 IDs
+  Metadata: 1803 IDs
+  Audio: 1800 files
+  Issues:
+    - TZ: Count mismatch - JSONL has 1795, TXT has 1800
+    - KE: Count mismatch - JSONL has 1795, TXT has 1800
+    - KE TXT: 5 IDs not in any JSONL file
+    - TZ TXT: 5 IDs not in any JSONL file
+
+
+
